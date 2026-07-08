@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-08T17:24:24Z",
+  "generatedAt": "2026-07-08T17:35:41Z",
   "season": "2026-27",
   "groups": [
     {
@@ -84,7 +84,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "premiership_mens_2026-01-02_new-glo",
@@ -129,7 +129,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-01-03_usa-sta",
@@ -174,7 +174,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-01-03_bat-exe",
@@ -219,7 +219,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-01-03_lyo-sec",
@@ -264,7 +264,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-01-03_mon-bay",
@@ -309,7 +309,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-01-03_sta-cas",
@@ -354,7 +354,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-01-03_us-asm",
@@ -399,7 +399,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-01-03_nor-har",
@@ -444,7 +444,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-01-03_uni-rac",
@@ -489,7 +489,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-01-04_lei-sar",
@@ -534,7 +534,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-01-04_sta-rc",
@@ -579,7 +579,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-01-23_glo-bat",
@@ -624,7 +624,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-01-24_uni-sta",
@@ -669,7 +669,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-01-24_exe-bri",
@@ -714,7 +714,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "premiership_mens_2026-01-24_sar-new",
@@ -759,7 +759,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "premiership_mens_2026-01-24_har-lei",
@@ -804,7 +804,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-01-24_bay-cas",
@@ -849,7 +849,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-01-24_rac-lyo",
@@ -894,7 +894,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-01-24_usa-us",
@@ -939,7 +939,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-01-24_sal-nor",
@@ -984,7 +984,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-01-24_sta-sec",
@@ -1029,7 +1029,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-01-25_rc-mon",
@@ -1074,7 +1074,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-01-25_asm-sta",
@@ -1119,7 +1119,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-01-31_mon-sta",
@@ -1164,7 +1164,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-01-31_cas-asm",
@@ -1209,7 +1209,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-01-31_rac-usa",
@@ -1254,7 +1254,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-01-31_sta-lyo",
@@ -1299,7 +1299,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-01-31_us-uni",
@@ -1344,7 +1344,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-01-31_sta-bay",
@@ -1389,7 +1389,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-02-01_sec-rc",
@@ -1434,7 +1434,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "intl_mens_2026-02-05_fra-ire",
@@ -1468,7 +1468,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:37Z"
     },
     {
       "id": "intl_mens_2026-02-07_ita-sco",
@@ -1502,7 +1502,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:37Z"
     },
     {
       "id": "intl_mens_2026-02-07_eng-wal",
@@ -1547,7 +1547,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:37Z"
     },
     {
       "id": "super_mens_2026-02-13_hig-cru",
@@ -1592,7 +1592,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-02-13_nsw-que",
@@ -1637,7 +1637,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-02-14_fij-moa",
@@ -1682,7 +1682,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-02-14_blu-chi",
@@ -1727,7 +1727,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-02-14_wes-act",
@@ -1772,7 +1772,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-02-14_uni-cas",
@@ -1817,7 +1817,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "intl_mens_2026-02-14_ire-ita",
@@ -1851,7 +1851,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:37Z"
     },
     {
       "id": "top14_mens_2026-02-14_bay-rac",
@@ -1896,7 +1896,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-02-14_lyo-us",
@@ -1941,7 +1941,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-02-14_sta-mon",
@@ -1986,7 +1986,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "intl_mens_2026-02-14_sco-eng",
@@ -2020,7 +2020,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:37Z"
     },
     {
       "id": "top14_mens_2026-02-14_rc-asm",
@@ -2065,7 +2065,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "intl_mens_2026-02-15_wal-fra",
@@ -2099,7 +2099,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:37Z"
     },
     {
       "id": "top14_mens_2026-02-15_sta-sta",
@@ -2144,7 +2144,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-02-20_hur-moa",
@@ -2189,7 +2189,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-02-20_nsw-fij",
@@ -2234,7 +2234,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-02-21_hig-chi",
@@ -2279,7 +2279,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-02-21_wes-blu",
@@ -2324,7 +2324,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "intl_mens_2026-02-21_eng-ire",
@@ -2358,7 +2358,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:37Z"
     },
     {
       "id": "intl_mens_2026-02-21_wal-sco",
@@ -2392,7 +2392,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:37Z"
     },
     {
       "id": "super_mens_2026-02-22_cru-act",
@@ -2437,7 +2437,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "intl_mens_2026-02-22_fra-ita",
@@ -2471,7 +2471,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:37Z"
     },
     {
       "id": "top14_mens_2026-02-22_usa-sec",
@@ -2516,7 +2516,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-02-27_moa-wes",
@@ -2561,7 +2561,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-02-27_que-hig",
@@ -2606,7 +2606,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-02-28_fij-hur",
@@ -2651,7 +2651,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-02-28_chi-cru",
@@ -2696,7 +2696,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-02-28_act-blu",
@@ -2741,7 +2741,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-02-28_asm-bay",
@@ -2786,7 +2786,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-02-28_lyo-rc",
@@ -2831,7 +2831,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-02-28_mon-rac",
@@ -2876,7 +2876,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-02-28_sta-usa",
@@ -2921,7 +2921,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-02-28_sta-us",
@@ -2966,7 +2966,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-02-28_cas-sta",
@@ -3011,7 +3011,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-03-01_sec-uni",
@@ -3056,7 +3056,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-03-06_chi-moa",
@@ -3101,7 +3101,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-03-06_nsw-hur",
@@ -3146,7 +3146,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "intl_mens_2026-03-06_ire-wal",
@@ -3180,7 +3180,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:37Z"
     },
     {
       "id": "super_mens_2026-03-07_hig-wes",
@@ -3225,7 +3225,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-03-07_blu-cru",
@@ -3270,7 +3270,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-03-07_act-que",
@@ -3315,7 +3315,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "intl_mens_2026-03-07_sco-fra",
@@ -3349,7 +3349,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:37Z"
     },
     {
       "id": "intl_mens_2026-03-07_ita-eng",
@@ -3383,7 +3383,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:37Z"
     },
     {
       "id": "super_mens_2026-03-13_hur-wes",
@@ -3428,7 +3428,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-03-14_fij-act",
@@ -3473,7 +3473,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-03-14_cru-hig",
@@ -3518,7 +3518,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-03-14_que-nsw",
@@ -3563,7 +3563,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "intl_mens_2026-03-14_ire-sco",
@@ -3597,7 +3597,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:37Z"
     },
     {
       "id": "intl_mens_2026-03-14_wal-ita",
@@ -3631,7 +3631,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:37Z"
     },
     {
       "id": "intl_mens_2026-03-14_fra-eng",
@@ -3665,7 +3665,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:37Z"
     },
     {
       "id": "super_mens_2026-03-15_blu-moa",
@@ -3710,7 +3710,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-03-20_hig-hur",
@@ -3755,7 +3755,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-03-20_act-chi",
@@ -3800,7 +3800,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-03-20_bat-sar",
@@ -3845,7 +3845,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "super_mens_2026-03-21_fij-que",
@@ -3890,7 +3890,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-03-21_moa-cru",
@@ -3935,7 +3935,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-03-21_nsw-blu",
@@ -3980,7 +3980,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-03-21_asm-mon",
@@ -4025,7 +4025,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-03-21_har-glo",
@@ -4070,7 +4070,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "premiership_mens_2026-03-21_nor-new",
@@ -4115,7 +4115,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "premiership_mens_2026-03-21_exe-sal",
@@ -4160,7 +4160,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-03-21_rac-cas",
@@ -4205,7 +4205,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-03-21_rc-sta",
@@ -4250,7 +4250,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-03-21_us-bay",
@@ -4295,7 +4295,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-03-21_usa-lyo",
@@ -4340,7 +4340,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-03-21_sta-sec",
@@ -4385,7 +4385,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-03-22_lei-bri",
@@ -4430,7 +4430,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-03-22_uni-sta",
@@ -4475,7 +4475,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-03-27_moa-hig",
@@ -4520,7 +4520,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-03-27_act-nsw",
@@ -4565,7 +4565,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-03-27_new-exe",
@@ -4610,7 +4610,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "super_mens_2026-03-28_hur-que",
@@ -4655,7 +4655,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-03-28_blu-fij",
@@ -4700,7 +4700,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-03-28_wes-chi",
@@ -4745,7 +4745,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-03-28_glo-lei",
@@ -4790,7 +4790,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-03-28_sta-mon",
@@ -4835,7 +4835,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-03-28_bri-har",
@@ -4880,7 +4880,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-03-28_cas-us",
@@ -4925,7 +4925,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-03-28_lyo-uni",
@@ -4970,7 +4970,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-03-28_sec-rac",
@@ -5015,7 +5015,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-03-28_usa-rc",
@@ -5060,7 +5060,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-03-28_sar-nor",
@@ -5105,7 +5105,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-03-28_bay-sta",
@@ -5150,7 +5150,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-03-29_sal-bat",
@@ -5195,7 +5195,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-03-29_sta-asm",
@@ -5240,7 +5240,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-04-03_cru-fij",
@@ -5285,7 +5285,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-04-04_chi-nsw",
@@ -5330,7 +5330,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-04-04_que-wes",
@@ -5375,7 +5375,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-04-10_hig-act",
@@ -5420,7 +5420,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-04-11_moa-chi",
@@ -5465,7 +5465,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-04-11_fij-wes",
@@ -5510,7 +5510,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-04-11_hur-blu",
@@ -5555,7 +5555,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-04-11_que-cru",
@@ -5600,7 +5600,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-04-17_blu-hig",
@@ -5645,7 +5645,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-04-17_nsw-moa",
@@ -5690,7 +5690,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-04-17_bri-glo",
@@ -5735,7 +5735,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "super_mens_2026-04-18_chi-hur",
@@ -5780,7 +5780,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-04-18_act-fij",
@@ -5825,7 +5825,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-04-18_wes-cru",
@@ -5870,7 +5870,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-04-18_sta-uni",
@@ -5915,7 +5915,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-04-18_lei-new",
@@ -5960,7 +5960,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "premiership_mens_2026-04-18_exe-nor",
@@ -6005,7 +6005,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-04-18_secti-bayon",
@@ -6050,7 +6050,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-04-18_asm-lyo",
@@ -6095,7 +6095,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-04-18_bay-sec",
@@ -6140,7 +6140,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-04-18_mon-usa",
@@ -6185,7 +6185,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-04-18_us-rc",
@@ -6230,7 +6230,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-04-18_bat-har",
@@ -6275,7 +6275,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-04-18_cas-sta",
@@ -6320,7 +6320,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-04-19_sal-sar",
@@ -6365,7 +6365,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-04-19_rac-sta",
@@ -6410,7 +6410,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-04-24_cru-nsw",
@@ -6455,7 +6455,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-04-24_new-bri",
@@ -6500,7 +6500,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "super_mens_2026-04-25_hur-act",
@@ -6545,7 +6545,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-04-25_blu-que",
@@ -6590,7 +6590,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-04-25_sta-sec",
@@ -6635,7 +6635,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-04-25_har-sal",
@@ -6680,7 +6680,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "premiership_mens_2026-04-25_sar-lei",
@@ -6725,7 +6725,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-04-25_lyo-cas",
@@ -6770,7 +6770,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-04-25_rc-bay",
@@ -6815,7 +6815,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-04-25_us-rac",
@@ -6860,7 +6860,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-04-25_usa-sta",
@@ -6905,7 +6905,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-04-25_nor-bat",
@@ -6950,7 +6950,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-04-25_uni-mon",
@@ -6995,7 +6995,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-04-26_hig-moa",
@@ -7040,7 +7040,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-04-26_chi-fij",
@@ -7085,7 +7085,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-04-26_glo-exe",
@@ -7130,7 +7130,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-04-26_sta-asm",
@@ -7175,7 +7175,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-05-01_hur-cru",
@@ -7220,7 +7220,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-05-01_nsw-wes",
@@ -7265,7 +7265,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-05-02_fij-hig",
@@ -7310,7 +7310,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-05-02_moa-blu",
@@ -7355,7 +7355,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-05-02_que-act",
@@ -7400,7 +7400,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-05-08_cru-blu",
@@ -7445,7 +7445,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-05-08_que-chi",
@@ -7490,7 +7490,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-05-08_glo-sal",
@@ -7535,7 +7535,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "super_mens_2026-05-09_hig-nsw",
@@ -7580,7 +7580,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-05-09_moa-hur",
@@ -7625,7 +7625,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-05-09_act-wes",
@@ -7670,7 +7670,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-05-09_sec-cas",
@@ -7715,7 +7715,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-05-09_lei-nor",
@@ -7760,7 +7760,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-05-09_asm-usa",
@@ -7805,7 +7805,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-05-09_bay-uni",
@@ -7850,7 +7850,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-05-09_mon-us",
@@ -7895,7 +7895,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-05-09_sta-lyo",
@@ -7940,7 +7940,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-05-09_borde-bayon",
@@ -7985,7 +7985,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-05-09_bri-sar",
@@ -8030,7 +8030,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-05-09_rc-sta",
@@ -8075,7 +8075,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-05-10_new-har",
@@ -8120,7 +8120,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "premiership_mens_2026-05-10_exe-bat",
@@ -8165,7 +8165,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-05-10_rac-sta",
@@ -8210,7 +8210,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-05-15_chi-hig",
@@ -8255,7 +8255,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-05-15_nor-bri",
@@ -8300,7 +8300,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "super_mens_2026-05-16_fij-nsw",
@@ -8345,7 +8345,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-05-16_blu-hur",
@@ -8390,7 +8390,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-05-16_wes-que",
@@ -8435,7 +8435,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-05-16_sec-asm",
@@ -8480,7 +8480,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-05-16_bat-new",
@@ -8525,7 +8525,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-05-16_cas-mon",
@@ -8570,7 +8570,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-05-16_lyo-bay",
@@ -8615,7 +8615,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-05-16_uni-usa",
@@ -8660,7 +8660,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-05-16_us-sta",
@@ -8705,7 +8705,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-05-16_har-exe",
@@ -8750,7 +8750,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "premiership_mens_2026-05-16_sar-glo",
@@ -8795,7 +8795,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-05-16_rac-rc",
@@ -8840,7 +8840,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-05-17_sal-lei",
@@ -8885,7 +8885,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-05-17_sta-sta",
@@ -8930,7 +8930,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-05-22_cru-chi",
@@ -8975,7 +8975,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-05-22_nsw-act",
@@ -9020,7 +9020,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-05-23_moa-que",
@@ -9065,7 +9065,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-05-23_hur-hig",
@@ -9110,7 +9110,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-05-23_wes-fij",
@@ -9155,7 +9155,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-05-29_cru-hur",
@@ -9200,7 +9200,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-05-29_que-fij",
@@ -9245,7 +9245,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-05-29_bri-bat",
@@ -9290,7 +9290,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "super_mens_2026-05-30_act-moa",
@@ -9335,7 +9335,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-05-30_chi-blu",
@@ -9380,7 +9380,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-05-30_wes-nsw",
@@ -9425,7 +9425,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-05-30_sar-har",
@@ -9470,7 +9470,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-05-30_sta-bay",
@@ -9515,7 +9515,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-05-30_sta-lyo",
@@ -9560,7 +9560,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-05-30_us-sta",
@@ -9605,7 +9605,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-05-30_usa-cas",
@@ -9650,7 +9650,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-05-30_nor-glo",
@@ -9695,7 +9695,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "premiership_mens_2026-05-30_new-sal",
@@ -9740,7 +9740,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-05-30_mon-sec",
@@ -9785,7 +9785,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-05-31_lei-exe",
@@ -9830,7 +9830,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-05-31_rc-uni",
@@ -9875,7 +9875,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-05-31_asm-rac",
@@ -9920,7 +9920,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-06-05_hur-act",
@@ -9965,7 +9965,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-06-06_cru-blu",
@@ -10010,7 +10010,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-06-06_chi-que",
@@ -10055,7 +10055,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-06-06_bat-lei",
@@ -10100,7 +10100,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "premiership_mens_2026-06-06_exe-sar",
@@ -10145,7 +10145,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "premiership_mens_2026-06-06_glo-new",
@@ -10190,7 +10190,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "premiership_mens_2026-06-06_har-nor",
@@ -10235,7 +10235,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "premiership_mens_2026-06-06_sal-bri",
@@ -10280,7 +10280,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-06-06_bay-usa",
@@ -10325,7 +10325,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-06-06_cas-rc",
@@ -10370,7 +10370,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-06-06_lyo-mon",
@@ -10415,7 +10415,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-06-06_rac-sta",
@@ -10460,7 +10460,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-06-06_sec-us",
@@ -10505,7 +10505,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-06-06_sta-sta",
@@ -10550,7 +10550,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-06-06_uni-asm",
@@ -10595,7 +10595,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-06-12_chi-cru",
@@ -10640,7 +10640,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-06-12_nor-lei",
@@ -10685,7 +10685,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "super_mens_2026-06-13_hur-blu",
@@ -10730,7 +10730,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-06-13_bat-exe",
@@ -10775,7 +10775,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-06-13_sec-rac",
@@ -10820,7 +10820,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-06-14_sta-sta",
@@ -10865,7 +10865,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-06-19_sta-rac",
@@ -10910,7 +10910,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "super_mens_2026-06-20_hur-chi",
@@ -10955,7 +10955,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:24Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "premiership_mens_2026-06-20_nor-exe",
@@ -11000,7 +11000,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:22Z"
+      "lastUpdated": "2026-07-08T17:35:39Z"
     },
     {
       "id": "top14_mens_2026-06-20_mon-sta",
@@ -11045,7 +11045,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "top14_mens_2026-06-27_sta-mon",
@@ -11090,7 +11090,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:23Z"
+      "lastUpdated": "2026-07-08T17:35:40Z"
     },
     {
       "id": "intl_mens_2026-07-04_nzl-fra",
@@ -11135,7 +11135,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-07-04_jap-ita",
@@ -11180,7 +11180,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-07-04_aus-ire",
@@ -11225,7 +11225,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-07-04_fij-wal",
@@ -11270,7 +11270,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-07-04_sou-eng",
@@ -11315,7 +11315,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-07-04_arg-sco",
@@ -11360,7 +11360,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-07-11_nzl-ita",
@@ -11405,7 +11405,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-07-11_aus-fra",
@@ -11450,7 +11450,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-07-11_jap-ire",
@@ -11495,7 +11495,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-07-11_fij-eng",
@@ -11540,7 +11540,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-07-11_sou-sco",
@@ -11585,7 +11585,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-07-11_arg-wal",
@@ -11630,7 +11630,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-07-18_nzl-ire",
@@ -11675,7 +11675,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-07-18_jap-fra",
@@ -11720,7 +11720,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-07-18_aus-ita",
@@ -11765,7 +11765,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-07-18_fij-sco",
@@ -11810,7 +11810,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-07-18_sou-wal",
@@ -11855,7 +11855,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-07-18_arg-eng",
@@ -11900,7 +11900,807 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
+    },
+    {
+      "id": "pwr_womens_2026-09-20_leicester-tigers-saracens",
+      "groupKey": "pwr_womens",
+      "competition": "Premiership Women's Rugby",
+      "gender": "womens",
+      "kickoff": "2026-09-20T12:00:00Z",
+      "kickoffTbd": true,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Leicester Tigers",
+        "shortName": "LEI",
+        "id": "leicester-tigers"
+      },
+      "awayTeam": {
+        "name": "Saracens",
+        "shortName": "SAR",
+        "id": "saracens"
+      },
+      "venue": null,
+      "venueCountry": "England",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "defaults",
+        "override": false
+      },
+      "broadcasters": [
+        {
+          "name": "BBC Sport",
+          "type": "stream",
+          "region": "UK"
+        },
+        {
+          "name": "TNT Sports",
+          "type": "tv",
+          "region": "UK"
+        },
+        {
+          "name": "PWR YouTube",
+          "type": "stream",
+          "region": "UK"
+        }
+      ],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "pwr_womens_2026-09-20_sale-sharks-loughborough-lightning",
+      "groupKey": "pwr_womens",
+      "competition": "Premiership Women's Rugby",
+      "gender": "womens",
+      "kickoff": "2026-09-20T12:00:00Z",
+      "kickoffTbd": true,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Sale Sharks",
+        "shortName": "SAL",
+        "id": "sale-sharks"
+      },
+      "awayTeam": {
+        "name": "Loughborough Lightning",
+        "shortName": "LOU",
+        "id": "loughborough-lightning"
+      },
+      "venue": null,
+      "venueCountry": "England",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "defaults",
+        "override": false
+      },
+      "broadcasters": [
+        {
+          "name": "BBC Sport",
+          "type": "stream",
+          "region": "UK"
+        },
+        {
+          "name": "TNT Sports",
+          "type": "tv",
+          "region": "UK"
+        },
+        {
+          "name": "PWR YouTube",
+          "type": "stream",
+          "region": "UK"
+        }
+      ],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "pwr_womens_2026-09-20_bristol-bears-trailfinders",
+      "groupKey": "pwr_womens",
+      "competition": "Premiership Women's Rugby",
+      "gender": "womens",
+      "kickoff": "2026-09-20T12:00:00Z",
+      "kickoffTbd": true,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Bristol Bears",
+        "shortName": "BRI",
+        "id": "bristol-bears"
+      },
+      "awayTeam": {
+        "name": "Trailfinders",
+        "shortName": "TRA",
+        "id": "trailfinders"
+      },
+      "venue": null,
+      "venueCountry": "England",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "defaults",
+        "override": false
+      },
+      "broadcasters": [
+        {
+          "name": "BBC Sport",
+          "type": "stream",
+          "region": "UK"
+        },
+        {
+          "name": "TNT Sports",
+          "type": "tv",
+          "region": "UK"
+        },
+        {
+          "name": "PWR YouTube",
+          "type": "stream",
+          "region": "UK"
+        }
+      ],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "pwr_womens_2026-09-20_harlequins-gloucester-hartpury",
+      "groupKey": "pwr_womens",
+      "competition": "Premiership Women's Rugby",
+      "gender": "womens",
+      "kickoff": "2026-09-20T12:00:00Z",
+      "kickoffTbd": true,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Harlequins",
+        "shortName": "HAR",
+        "id": "harlequins"
+      },
+      "awayTeam": {
+        "name": "Gloucester–Hartpury",
+        "shortName": "GLO",
+        "id": "gloucester-hartpury"
+      },
+      "venue": null,
+      "venueCountry": "England",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "defaults",
+        "override": false
+      },
+      "broadcasters": [
+        {
+          "name": "BBC Sport",
+          "type": "stream",
+          "region": "UK"
+        },
+        {
+          "name": "TNT Sports",
+          "type": "tv",
+          "region": "UK"
+        },
+        {
+          "name": "PWR YouTube",
+          "type": "stream",
+          "region": "UK"
+        }
+      ],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "pwr_womens_2026-09-27_exeter-chiefs-leicester-tigers",
+      "groupKey": "pwr_womens",
+      "competition": "Premiership Women's Rugby",
+      "gender": "womens",
+      "kickoff": "2026-09-27T12:00:00Z",
+      "kickoffTbd": true,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Exeter Chiefs",
+        "shortName": "EXE",
+        "id": "exeter-chiefs"
+      },
+      "awayTeam": {
+        "name": "Leicester Tigers",
+        "shortName": "LEI",
+        "id": "leicester-tigers"
+      },
+      "venue": null,
+      "venueCountry": "England",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "defaults",
+        "override": false
+      },
+      "broadcasters": [
+        {
+          "name": "BBC Sport",
+          "type": "stream",
+          "region": "UK"
+        },
+        {
+          "name": "TNT Sports",
+          "type": "tv",
+          "region": "UK"
+        },
+        {
+          "name": "PWR YouTube",
+          "type": "stream",
+          "region": "UK"
+        }
+      ],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "pwr_womens_2026-09-27_saracens-sale-sharks",
+      "groupKey": "pwr_womens",
+      "competition": "Premiership Women's Rugby",
+      "gender": "womens",
+      "kickoff": "2026-09-27T12:00:00Z",
+      "kickoffTbd": true,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Saracens",
+        "shortName": "SAR",
+        "id": "saracens"
+      },
+      "awayTeam": {
+        "name": "Sale Sharks",
+        "shortName": "SAL",
+        "id": "sale-sharks"
+      },
+      "venue": null,
+      "venueCountry": "England",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "defaults",
+        "override": false
+      },
+      "broadcasters": [
+        {
+          "name": "BBC Sport",
+          "type": "stream",
+          "region": "UK"
+        },
+        {
+          "name": "TNT Sports",
+          "type": "tv",
+          "region": "UK"
+        },
+        {
+          "name": "PWR YouTube",
+          "type": "stream",
+          "region": "UK"
+        }
+      ],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "pwr_womens_2026-10-04_loughborough-lightning-saracens",
+      "groupKey": "pwr_womens",
+      "competition": "Premiership Women's Rugby",
+      "gender": "womens",
+      "kickoff": "2026-10-04T12:00:00Z",
+      "kickoffTbd": true,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Loughborough Lightning",
+        "shortName": "LOU",
+        "id": "loughborough-lightning"
+      },
+      "awayTeam": {
+        "name": "Saracens",
+        "shortName": "SAR",
+        "id": "saracens"
+      },
+      "venue": null,
+      "venueCountry": "England",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "defaults",
+        "override": false
+      },
+      "broadcasters": [
+        {
+          "name": "BBC Sport",
+          "type": "stream",
+          "region": "UK"
+        },
+        {
+          "name": "TNT Sports",
+          "type": "tv",
+          "region": "UK"
+        },
+        {
+          "name": "PWR YouTube",
+          "type": "stream",
+          "region": "UK"
+        }
+      ],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "pwr_womens_2026-10-04_sale-sharks-exeter-chiefs",
+      "groupKey": "pwr_womens",
+      "competition": "Premiership Women's Rugby",
+      "gender": "womens",
+      "kickoff": "2026-10-04T12:00:00Z",
+      "kickoffTbd": true,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Sale Sharks",
+        "shortName": "SAL",
+        "id": "sale-sharks"
+      },
+      "awayTeam": {
+        "name": "Exeter Chiefs",
+        "shortName": "EXE",
+        "id": "exeter-chiefs"
+      },
+      "venue": null,
+      "venueCountry": "England",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "defaults",
+        "override": false
+      },
+      "broadcasters": [
+        {
+          "name": "BBC Sport",
+          "type": "stream",
+          "region": "UK"
+        },
+        {
+          "name": "TNT Sports",
+          "type": "tv",
+          "region": "UK"
+        },
+        {
+          "name": "PWR YouTube",
+          "type": "stream",
+          "region": "UK"
+        }
+      ],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "pwr_womens_2026-10-04_bristol-bears-gloucester-hartpury",
+      "groupKey": "pwr_womens",
+      "competition": "Premiership Women's Rugby",
+      "gender": "womens",
+      "kickoff": "2026-10-04T12:00:00Z",
+      "kickoffTbd": true,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Bristol Bears",
+        "shortName": "BRI",
+        "id": "bristol-bears"
+      },
+      "awayTeam": {
+        "name": "Gloucester–Hartpury",
+        "shortName": "GLO",
+        "id": "gloucester-hartpury"
+      },
+      "venue": null,
+      "venueCountry": "England",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "defaults",
+        "override": false
+      },
+      "broadcasters": [
+        {
+          "name": "BBC Sport",
+          "type": "stream",
+          "region": "UK"
+        },
+        {
+          "name": "TNT Sports",
+          "type": "tv",
+          "region": "UK"
+        },
+        {
+          "name": "PWR YouTube",
+          "type": "stream",
+          "region": "UK"
+        }
+      ],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "pwr_womens_2026-10-04_trailfinders-harlequins",
+      "groupKey": "pwr_womens",
+      "competition": "Premiership Women's Rugby",
+      "gender": "womens",
+      "kickoff": "2026-10-04T12:00:00Z",
+      "kickoffTbd": true,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Trailfinders",
+        "shortName": "TRA",
+        "id": "trailfinders"
+      },
+      "awayTeam": {
+        "name": "Harlequins",
+        "shortName": "HAR",
+        "id": "harlequins"
+      },
+      "venue": null,
+      "venueCountry": "England",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "defaults",
+        "override": false
+      },
+      "broadcasters": [
+        {
+          "name": "BBC Sport",
+          "type": "stream",
+          "region": "UK"
+        },
+        {
+          "name": "TNT Sports",
+          "type": "tv",
+          "region": "UK"
+        },
+        {
+          "name": "PWR YouTube",
+          "type": "stream",
+          "region": "UK"
+        }
+      ],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "pwr_womens_2026-10-11_exeter-chiefs-loughborough-lightning",
+      "groupKey": "pwr_womens",
+      "competition": "Premiership Women's Rugby",
+      "gender": "womens",
+      "kickoff": "2026-10-11T12:00:00Z",
+      "kickoffTbd": true,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Exeter Chiefs",
+        "shortName": "EXE",
+        "id": "exeter-chiefs"
+      },
+      "awayTeam": {
+        "name": "Loughborough Lightning",
+        "shortName": "LOU",
+        "id": "loughborough-lightning"
+      },
+      "venue": null,
+      "venueCountry": "England",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "defaults",
+        "override": false
+      },
+      "broadcasters": [
+        {
+          "name": "BBC Sport",
+          "type": "stream",
+          "region": "UK"
+        },
+        {
+          "name": "TNT Sports",
+          "type": "tv",
+          "region": "UK"
+        },
+        {
+          "name": "PWR YouTube",
+          "type": "stream",
+          "region": "UK"
+        }
+      ],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "pwr_womens_2026-10-11_leicester-tigers-sale-sharks",
+      "groupKey": "pwr_womens",
+      "competition": "Premiership Women's Rugby",
+      "gender": "womens",
+      "kickoff": "2026-10-11T12:00:00Z",
+      "kickoffTbd": true,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Leicester Tigers",
+        "shortName": "LEI",
+        "id": "leicester-tigers"
+      },
+      "awayTeam": {
+        "name": "Sale Sharks",
+        "shortName": "SAL",
+        "id": "sale-sharks"
+      },
+      "venue": null,
+      "venueCountry": "England",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "defaults",
+        "override": false
+      },
+      "broadcasters": [
+        {
+          "name": "BBC Sport",
+          "type": "stream",
+          "region": "UK"
+        },
+        {
+          "name": "TNT Sports",
+          "type": "tv",
+          "region": "UK"
+        },
+        {
+          "name": "PWR YouTube",
+          "type": "stream",
+          "region": "UK"
+        }
+      ],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "pwr_womens_2026-10-18_loughborough-lightning-leicester-tigers",
+      "groupKey": "pwr_womens",
+      "competition": "Premiership Women's Rugby",
+      "gender": "womens",
+      "kickoff": "2026-10-18T12:00:00Z",
+      "kickoffTbd": true,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Loughborough Lightning",
+        "shortName": "LOU",
+        "id": "loughborough-lightning"
+      },
+      "awayTeam": {
+        "name": "Leicester Tigers",
+        "shortName": "LEI",
+        "id": "leicester-tigers"
+      },
+      "venue": null,
+      "venueCountry": "England",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "defaults",
+        "override": false
+      },
+      "broadcasters": [
+        {
+          "name": "BBC Sport",
+          "type": "stream",
+          "region": "UK"
+        },
+        {
+          "name": "TNT Sports",
+          "type": "tv",
+          "region": "UK"
+        },
+        {
+          "name": "PWR YouTube",
+          "type": "stream",
+          "region": "UK"
+        }
+      ],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "pwr_womens_2026-10-18_saracens-exeter-chiefs",
+      "groupKey": "pwr_womens",
+      "competition": "Premiership Women's Rugby",
+      "gender": "womens",
+      "kickoff": "2026-10-18T12:00:00Z",
+      "kickoffTbd": true,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Saracens",
+        "shortName": "SAR",
+        "id": "saracens"
+      },
+      "awayTeam": {
+        "name": "Exeter Chiefs",
+        "shortName": "EXE",
+        "id": "exeter-chiefs"
+      },
+      "venue": null,
+      "venueCountry": "England",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "defaults",
+        "override": false
+      },
+      "broadcasters": [
+        {
+          "name": "BBC Sport",
+          "type": "stream",
+          "region": "UK"
+        },
+        {
+          "name": "TNT Sports",
+          "type": "tv",
+          "region": "UK"
+        },
+        {
+          "name": "PWR YouTube",
+          "type": "stream",
+          "region": "UK"
+        }
+      ],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "pwr_womens_2026-10-18_gloucester-hartpury-trailfinders",
+      "groupKey": "pwr_womens",
+      "competition": "Premiership Women's Rugby",
+      "gender": "womens",
+      "kickoff": "2026-10-18T12:00:00Z",
+      "kickoffTbd": true,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Gloucester–Hartpury",
+        "shortName": "GLO",
+        "id": "gloucester-hartpury"
+      },
+      "awayTeam": {
+        "name": "Trailfinders",
+        "shortName": "TRA",
+        "id": "trailfinders"
+      },
+      "venue": null,
+      "venueCountry": "England",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "defaults",
+        "override": false
+      },
+      "broadcasters": [
+        {
+          "name": "BBC Sport",
+          "type": "stream",
+          "region": "UK"
+        },
+        {
+          "name": "TNT Sports",
+          "type": "tv",
+          "region": "UK"
+        },
+        {
+          "name": "PWR YouTube",
+          "type": "stream",
+          "region": "UK"
+        }
+      ],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "pwr_womens_2026-10-18_harlequins-bristol-bears",
+      "groupKey": "pwr_womens",
+      "competition": "Premiership Women's Rugby",
+      "gender": "womens",
+      "kickoff": "2026-10-18T12:00:00Z",
+      "kickoffTbd": true,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Harlequins",
+        "shortName": "HAR",
+        "id": "harlequins"
+      },
+      "awayTeam": {
+        "name": "Bristol Bears",
+        "shortName": "BRI",
+        "id": "bristol-bears"
+      },
+      "venue": null,
+      "venueCountry": "England",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "defaults",
+        "override": false
+      },
+      "broadcasters": [
+        {
+          "name": "BBC Sport",
+          "type": "stream",
+          "region": "UK"
+        },
+        {
+          "name": "TNT Sports",
+          "type": "tv",
+          "region": "UK"
+        },
+        {
+          "name": "PWR YouTube",
+          "type": "stream",
+          "region": "UK"
+        }
+      ],
+      "lastUpdated": "2026-07-08T17:35:41Z"
     },
     {
       "id": "intl_mens_2026-11-06_ire-arg",
@@ -11945,7 +12745,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-11-07_ita-sou",
@@ -11990,7 +12790,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-11-07_sco-nzl",
@@ -12035,7 +12835,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-11-07_wal-jap",
@@ -12080,7 +12880,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-11-07_fra-fij",
@@ -12125,7 +12925,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-11-08_eng-aus",
@@ -12170,7 +12970,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-11-13_fra-sou",
@@ -12215,7 +13015,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-11-14_ita-arg",
@@ -12260,7 +13060,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-11-14_wal-nzl",
@@ -12305,7 +13105,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-11-14_eng-jap",
@@ -12350,7 +13150,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-11-14_ire-fij",
@@ -12395,7 +13195,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-11-15_sco-aus",
@@ -12440,7 +13240,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-11-21_eng-nzl",
@@ -12485,7 +13285,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-11-21_sco-jap",
@@ -12530,7 +13330,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-11-21_ire-sou",
@@ -12575,7 +13375,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-11-21_ita-fij",
@@ -12620,7 +13420,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-11-21_fra-arg",
@@ -12665,7 +13465,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2026-11-21_wal-aus",
@@ -12710,7 +13510,517 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:20Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
+    },
+    {
+      "id": "intl_womens_2027-04-10_italy-france",
+      "groupKey": "intl_womens",
+      "competition": "Women's Six Nations",
+      "gender": "womens",
+      "kickoff": "2027-04-10T11:30:00Z",
+      "kickoffTbd": false,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Italy",
+        "shortName": "ITA",
+        "id": "italy"
+      },
+      "awayTeam": {
+        "name": "France",
+        "shortName": "FRA",
+        "id": "france"
+      },
+      "venue": null,
+      "venueCountry": "Italy",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "none",
+        "override": false
+      },
+      "broadcasters": [],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "intl_womens_2027-04-10_wales-england",
+      "groupKey": "intl_womens",
+      "competition": "Women's Six Nations",
+      "gender": "womens",
+      "kickoff": "2027-04-10T13:45:00Z",
+      "kickoffTbd": false,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Wales",
+        "shortName": "WAL",
+        "id": "wales"
+      },
+      "awayTeam": {
+        "name": "England",
+        "shortName": "ENG",
+        "id": "england"
+      },
+      "venue": null,
+      "venueCountry": "Wales",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "none",
+        "override": false
+      },
+      "broadcasters": [],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "intl_womens_2027-04-10_scotland-ireland",
+      "groupKey": "intl_womens",
+      "competition": "Women's Six Nations",
+      "gender": "womens",
+      "kickoff": "2027-04-10T16:00:00Z",
+      "kickoffTbd": false,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Scotland",
+        "shortName": "SCO",
+        "id": "scotland"
+      },
+      "awayTeam": {
+        "name": "Ireland",
+        "shortName": "IRE",
+        "id": "ireland"
+      },
+      "venue": "Murrayfield Stadium, Edinburgh",
+      "venueCountry": "Scotland",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "none",
+        "override": false
+      },
+      "broadcasters": [],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "intl_womens_2027-04-17_italy-wales",
+      "groupKey": "intl_womens",
+      "competition": "Women's Six Nations",
+      "gender": "womens",
+      "kickoff": "2027-04-17T11:15:00Z",
+      "kickoffTbd": false,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Italy",
+        "shortName": "ITA",
+        "id": "italy"
+      },
+      "awayTeam": {
+        "name": "Wales",
+        "shortName": "WAL",
+        "id": "wales"
+      },
+      "venue": null,
+      "venueCountry": "Italy",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "none",
+        "override": false
+      },
+      "broadcasters": [],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "intl_womens_2027-04-17_ireland-france",
+      "groupKey": "intl_womens",
+      "competition": "Women's Six Nations",
+      "gender": "womens",
+      "kickoff": "2027-04-17T13:30:00Z",
+      "kickoffTbd": false,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Ireland",
+        "shortName": "IRE",
+        "id": "ireland"
+      },
+      "awayTeam": {
+        "name": "France",
+        "shortName": "FRA",
+        "id": "france"
+      },
+      "venue": null,
+      "venueCountry": "Ireland",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "none",
+        "override": false
+      },
+      "broadcasters": [],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "intl_womens_2027-04-17_england-scotland",
+      "groupKey": "intl_womens",
+      "competition": "Women's Six Nations",
+      "gender": "womens",
+      "kickoff": "2027-04-17T15:45:00Z",
+      "kickoffTbd": false,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "England",
+        "shortName": "ENG",
+        "id": "england"
+      },
+      "awayTeam": {
+        "name": "Scotland",
+        "shortName": "SCO",
+        "id": "scotland"
+      },
+      "venue": null,
+      "venueCountry": "England",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "none",
+        "override": false
+      },
+      "broadcasters": [],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "intl_womens_2027-04-24_wales-ireland",
+      "groupKey": "intl_womens",
+      "competition": "Women's Six Nations",
+      "gender": "womens",
+      "kickoff": "2027-04-24T11:30:00Z",
+      "kickoffTbd": false,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Wales",
+        "shortName": "WAL",
+        "id": "wales"
+      },
+      "awayTeam": {
+        "name": "Ireland",
+        "shortName": "IRE",
+        "id": "ireland"
+      },
+      "venue": null,
+      "venueCountry": "Wales",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "none",
+        "override": false
+      },
+      "broadcasters": [],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "intl_womens_2027-04-24_france-scotland",
+      "groupKey": "intl_womens",
+      "competition": "Women's Six Nations",
+      "gender": "womens",
+      "kickoff": "2027-04-24T13:45:00Z",
+      "kickoffTbd": false,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "France",
+        "shortName": "FRA",
+        "id": "france"
+      },
+      "awayTeam": {
+        "name": "Scotland",
+        "shortName": "SCO",
+        "id": "scotland"
+      },
+      "venue": null,
+      "venueCountry": "France",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "none",
+        "override": false
+      },
+      "broadcasters": [],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "intl_womens_2027-04-24_england-italy",
+      "groupKey": "intl_womens",
+      "competition": "Women's Six Nations",
+      "gender": "womens",
+      "kickoff": "2027-04-24T16:00:00Z",
+      "kickoffTbd": false,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "England",
+        "shortName": "ENG",
+        "id": "england"
+      },
+      "awayTeam": {
+        "name": "Italy",
+        "shortName": "ITA",
+        "id": "italy"
+      },
+      "venue": null,
+      "venueCountry": "England",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "none",
+        "override": false
+      },
+      "broadcasters": [],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "intl_womens_2027-05-08_france-wales",
+      "groupKey": "intl_womens",
+      "competition": "Women's Six Nations",
+      "gender": "womens",
+      "kickoff": "2027-05-08T11:30:00Z",
+      "kickoffTbd": false,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "France",
+        "shortName": "FRA",
+        "id": "france"
+      },
+      "awayTeam": {
+        "name": "Wales",
+        "shortName": "WAL",
+        "id": "wales"
+      },
+      "venue": null,
+      "venueCountry": "France",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "none",
+        "override": false
+      },
+      "broadcasters": [],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "intl_womens_2027-05-08_ireland-england",
+      "groupKey": "intl_womens",
+      "competition": "Women's Six Nations",
+      "gender": "womens",
+      "kickoff": "2027-05-08T13:45:00Z",
+      "kickoffTbd": false,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Ireland",
+        "shortName": "IRE",
+        "id": "ireland"
+      },
+      "awayTeam": {
+        "name": "England",
+        "shortName": "ENG",
+        "id": "england"
+      },
+      "venue": null,
+      "venueCountry": "Ireland",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "none",
+        "override": false
+      },
+      "broadcasters": [],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "intl_womens_2027-05-08_scotland-italy",
+      "groupKey": "intl_womens",
+      "competition": "Women's Six Nations",
+      "gender": "womens",
+      "kickoff": "2027-05-08T16:00:00Z",
+      "kickoffTbd": false,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Scotland",
+        "shortName": "SCO",
+        "id": "scotland"
+      },
+      "awayTeam": {
+        "name": "Italy",
+        "shortName": "ITA",
+        "id": "italy"
+      },
+      "venue": "Edinburgh Rugby Stadium, Edinburgh",
+      "venueCountry": "Scotland",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "none",
+        "override": false
+      },
+      "broadcasters": [],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "intl_womens_2027-05-15_italy-ireland",
+      "groupKey": "intl_womens",
+      "competition": "Women's Six Nations",
+      "gender": "womens",
+      "kickoff": "2027-05-15T11:15:00Z",
+      "kickoffTbd": false,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Italy",
+        "shortName": "ITA",
+        "id": "italy"
+      },
+      "awayTeam": {
+        "name": "Ireland",
+        "shortName": "IRE",
+        "id": "ireland"
+      },
+      "venue": null,
+      "venueCountry": "Italy",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "none",
+        "override": false
+      },
+      "broadcasters": [],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "intl_womens_2027-05-15_scotland-wales",
+      "groupKey": "intl_womens",
+      "competition": "Women's Six Nations",
+      "gender": "womens",
+      "kickoff": "2027-05-15T13:30:00Z",
+      "kickoffTbd": false,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "Scotland",
+        "shortName": "SCO",
+        "id": "scotland"
+      },
+      "awayTeam": {
+        "name": "Wales",
+        "shortName": "WAL",
+        "id": "wales"
+      },
+      "venue": "Edinburgh Rugby Stadium, Edinburgh",
+      "venueCountry": "Scotland",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "none",
+        "override": false
+      },
+      "broadcasters": [],
+      "lastUpdated": "2026-07-08T17:35:41Z"
+    },
+    {
+      "id": "intl_womens_2027-05-15_england-france",
+      "groupKey": "intl_womens",
+      "competition": "Women's Six Nations",
+      "gender": "womens",
+      "kickoff": "2027-05-15T15:45:00Z",
+      "kickoffTbd": false,
+      "status": "scheduled",
+      "homeTeam": {
+        "name": "England",
+        "shortName": "ENG",
+        "id": "england"
+      },
+      "awayTeam": {
+        "name": "France",
+        "shortName": "FRA",
+        "id": "france"
+      },
+      "venue": null,
+      "venueCountry": "England",
+      "round": null,
+      "sources": {
+        "fixture": "wikipedia",
+        "agreedBy": [
+          "wikipedia"
+        ],
+        "confidence": "medium",
+        "conflicts": [],
+        "broadcast": "none",
+        "override": false
+      },
+      "broadcasters": [],
+      "lastUpdated": "2026-07-08T17:35:41Z"
     },
     {
       "id": "intl_mens_2027-10-01_aus-hon",
@@ -12744,7 +14054,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-02_wal-zim",
@@ -12778,7 +14088,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-02_nzl-chi",
@@ -12812,7 +14122,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-02_fra-usa",
@@ -12846,7 +14156,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-02_eng-ton",
@@ -12880,7 +14190,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-03_jap-sam",
@@ -12914,7 +14224,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-03_sou-ita",
@@ -12948,7 +14258,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-03_sco-uru",
@@ -12982,7 +14292,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-03_geo-rom",
@@ -13016,7 +14326,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-04_fij-spa",
@@ -13050,7 +14360,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-04_ire-por",
@@ -13084,7 +14394,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-04_arg-can",
@@ -13118,7 +14428,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-08_wal-ton",
@@ -13152,7 +14462,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-08_eng-zim",
@@ -13186,7 +14496,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-09_usa-sam",
@@ -13220,7 +14530,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-09_nzl-aus",
@@ -13254,7 +14564,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-09_fra-jap",
@@ -13288,7 +14598,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-09_chi-hon",
@@ -13322,7 +14632,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-10_fij-can",
@@ -13356,7 +14666,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-10_arg-spa",
@@ -13390,7 +14700,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-10_sou-geo",
@@ -13424,7 +14734,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-10_ire-sco",
@@ -13458,7 +14768,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-11_uru-por",
@@ -13492,7 +14802,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-11_ita-rom",
@@ -13526,7 +14836,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-15_nzl-hon",
@@ -13560,7 +14870,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-15_jap-usa",
@@ -13594,7 +14904,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-15_ton-zim",
@@ -13628,7 +14938,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-16_arg-fij",
@@ -13662,7 +14972,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-16_aus-chi",
@@ -13696,7 +15006,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-16_eng-wal",
@@ -13730,7 +15040,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-16_spa-can",
@@ -13764,7 +15074,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-17_ita-geo",
@@ -13798,7 +15108,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-17_ire-uru",
@@ -13832,7 +15142,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-17_sco-por",
@@ -13866,7 +15176,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-17_fra-sam",
@@ -13900,7 +15210,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     },
     {
       "id": "intl_mens_2027-10-17_sou-rom",
@@ -13934,7 +15244,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T17:24:21Z"
+      "lastUpdated": "2026-07-08T17:35:38Z"
     }
   ]
 }
