@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-08T06:40:01Z",
+  "generatedAt": "2026-07-08T17:24:24Z",
   "season": "2026-27",
   "groups": [
     {
@@ -60,6 +60,7 @@
         "id": "sale-sharks"
       },
       "venue": "Ashton Gate",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -83,7 +84,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "premiership_mens_2026-01-02_new-glo",
@@ -104,6 +105,7 @@
         "id": "gloucester-rugby"
       },
       "venue": "Kingston Park",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -127,7 +129,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-01-03_usa-sta",
@@ -148,6 +150,7 @@
         "id": "stade-toulousain"
       },
       "venue": "Stade Aime Giral",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -171,7 +174,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-01-03_bat-exe",
@@ -192,6 +195,7 @@
         "id": "exeter-chiefs"
       },
       "venue": "Recreation Ground",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -215,7 +219,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-01-03_lyo-sec",
@@ -236,6 +240,7 @@
         "id": "pau"
       },
       "venue": "Matmut Stadium de Gerland",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -259,7 +264,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-01-03_mon-bay",
@@ -280,6 +285,7 @@
         "id": "bayonne"
       },
       "venue": "Septeo Stadium",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -303,7 +309,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-01-03_sta-cas",
@@ -324,6 +330,7 @@
         "id": "castres-olympique"
       },
       "venue": "Stade Jean Bouin",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -347,7 +354,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-01-03_us-asm",
@@ -368,6 +375,7 @@
         "id": "clermont-auvergne"
       },
       "venue": "Stade Sapiac",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -391,7 +399,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-01-03_nor-har",
@@ -412,6 +420,7 @@
         "id": "harlequins"
       },
       "venue": "cinch Stadium at Franklin's Gardens",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -435,7 +444,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-01-03_uni-rac",
@@ -456,6 +465,7 @@
         "id": "racing-92"
       },
       "venue": "Stade Chaban-Delmas",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -479,7 +489,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-01-04_lei-sar",
@@ -500,6 +510,7 @@
         "id": "saracens"
       },
       "venue": "Mattioli Woods Welford Road Stadium",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -523,7 +534,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-01-04_sta-rc",
@@ -544,6 +555,7 @@
         "id": "toulon"
       },
       "venue": "Stade Marcel-Deflandre",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -567,7 +579,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-01-23_glo-bat",
@@ -588,6 +600,7 @@
         "id": "bath-rugby"
       },
       "venue": "Kingsholm",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -611,7 +624,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-01-24_uni-sta",
@@ -632,6 +645,7 @@
         "id": "stade-francais-paris"
       },
       "venue": "Stade Chaban-Delmas",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -655,7 +669,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-01-24_exe-bri",
@@ -676,6 +690,7 @@
         "id": "bristol-rugby"
       },
       "venue": "Sandy Park",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -699,7 +714,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "premiership_mens_2026-01-24_sar-new",
@@ -720,6 +735,7 @@
         "id": "newcastle-falcons"
       },
       "venue": "StoneX Stadium",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -743,7 +759,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "premiership_mens_2026-01-24_har-lei",
@@ -764,6 +780,7 @@
         "id": "leicester-tigers"
       },
       "venue": "Twickenham Stoop",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -787,7 +804,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-01-24_bay-cas",
@@ -808,6 +825,7 @@
         "id": "castres-olympique"
       },
       "venue": "Stade Jean Dauger",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -831,7 +849,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-01-24_rac-lyo",
@@ -852,6 +870,7 @@
         "id": "lyon"
       },
       "venue": "Paris La Defense Arena",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -875,7 +894,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-01-24_usa-us",
@@ -896,6 +915,7 @@
         "id": "us-montauban"
       },
       "venue": "Stade Aime Giral",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -919,7 +939,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-01-24_sal-nor",
@@ -940,6 +960,7 @@
         "id": "northampton-saints"
       },
       "venue": "CorpAcq Stadium",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -963,7 +984,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-01-24_sta-sec",
@@ -984,6 +1005,7 @@
         "id": "pau"
       },
       "venue": "Stade Ernest-Wallon",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -1007,7 +1029,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-01-25_rc-mon",
@@ -1028,6 +1050,7 @@
         "id": "montpellier-herault"
       },
       "venue": "Stade Mayol",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -1051,7 +1074,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-01-25_asm-sta",
@@ -1072,6 +1095,7 @@
         "id": "la-rochelle"
       },
       "venue": "Stade Marcel Michelin",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -1095,7 +1119,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-01-31_mon-sta",
@@ -1116,6 +1140,7 @@
         "id": "stade-francais-paris"
       },
       "venue": "Septeo Stadium",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -1139,7 +1164,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-01-31_cas-asm",
@@ -1160,6 +1185,7 @@
         "id": "clermont-auvergne"
       },
       "venue": "Stade Pierre Fabre",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -1183,7 +1209,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-01-31_rac-usa",
@@ -1204,6 +1230,7 @@
         "id": "perpignan"
       },
       "venue": "Paris La Defense Arena",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -1227,7 +1254,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-01-31_sta-lyo",
@@ -1248,6 +1275,7 @@
         "id": "lyon"
       },
       "venue": "Stade Marcel-Deflandre",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -1271,7 +1299,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-01-31_us-uni",
@@ -1292,6 +1320,7 @@
         "id": "bordeaux-begles"
       },
       "venue": "Stade Sapiac",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -1315,7 +1344,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-01-31_sta-bay",
@@ -1336,6 +1365,7 @@
         "id": "bayonne"
       },
       "venue": "Stade Ernest-Wallon",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -1359,7 +1389,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-02-01_sec-rc",
@@ -1380,6 +1410,7 @@
         "id": "toulon"
       },
       "venue": "Stade du Hameau",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -1403,7 +1434,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "intl_mens_2026-02-05_fra-ire",
@@ -1424,6 +1455,7 @@
         "id": "ireland"
       },
       "venue": "Stade de France",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -1436,7 +1468,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:56Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-02-07_ita-sco",
@@ -1457,6 +1489,7 @@
         "id": "scotland"
       },
       "venue": "Stadio Olimpico",
+      "venueCountry": "Italy",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -1469,7 +1502,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:56Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-02-07_eng-wal",
@@ -1490,6 +1523,7 @@
         "id": "wales"
       },
       "venue": "Allianz Stadium",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -1513,7 +1547,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:56Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "super_mens_2026-02-13_hig-cru",
@@ -1534,6 +1568,7 @@
         "id": "crusaders"
       },
       "venue": "Forsyth Barr Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -1557,7 +1592,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-02-13_nsw-que",
@@ -1578,6 +1613,7 @@
         "id": "queensland-reds"
       },
       "venue": "Allianz Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -1601,7 +1637,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-02-14_fij-moa",
@@ -1622,6 +1658,7 @@
         "id": "moana-pasifika"
       },
       "venue": "Churchill Park",
+      "venueCountry": "Fiji",
       "round": null,
       "broadcasters": [
         {
@@ -1645,7 +1682,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-02-14_blu-chi",
@@ -1666,6 +1703,7 @@
         "id": "chiefs"
       },
       "venue": "Eden Park",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -1689,7 +1727,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-02-14_wes-act",
@@ -1710,6 +1748,7 @@
         "id": "brumbies"
       },
       "venue": "HBF Park",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -1733,7 +1772,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "top14_mens_2026-02-14_uni-cas",
@@ -1754,6 +1793,7 @@
         "id": "castres-olympique"
       },
       "venue": "Stade Chaban-Delmas",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -1777,7 +1817,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "intl_mens_2026-02-14_ire-ita",
@@ -1798,6 +1838,7 @@
         "id": "italy"
       },
       "venue": "Aviva Stadium",
+      "venueCountry": "Ireland",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -1810,7 +1851,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:56Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "top14_mens_2026-02-14_bay-rac",
@@ -1831,6 +1872,7 @@
         "id": "racing-92"
       },
       "venue": "Stade Jean Dauger",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -1854,7 +1896,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-02-14_lyo-us",
@@ -1875,6 +1917,7 @@
         "id": "us-montauban"
       },
       "venue": "Matmut Stadium de Gerland",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -1898,7 +1941,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-02-14_sta-mon",
@@ -1919,6 +1962,7 @@
         "id": "montpellier-herault"
       },
       "venue": "Stade Marcel-Deflandre",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -1942,7 +1986,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "intl_mens_2026-02-14_sco-eng",
@@ -1963,6 +2007,7 @@
         "id": "england"
       },
       "venue": "Scottish Gas Murrayfield",
+      "venueCountry": "Scotland",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -1975,7 +2020,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:56Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "top14_mens_2026-02-14_rc-asm",
@@ -1996,6 +2041,7 @@
         "id": "clermont-auvergne"
       },
       "venue": "Stade Mayol",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -2019,7 +2065,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "intl_mens_2026-02-15_wal-fra",
@@ -2040,6 +2086,7 @@
         "id": "france"
       },
       "venue": "Principality Stadium",
+      "venueCountry": "Wales",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -2052,7 +2099,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:56Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "top14_mens_2026-02-15_sta-sta",
@@ -2073,6 +2120,7 @@
         "id": "stade-toulousain"
       },
       "venue": "Stade Jean Bouin",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -2096,7 +2144,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "super_mens_2026-02-20_hur-moa",
@@ -2117,6 +2165,7 @@
         "id": "moana-pasifika"
       },
       "venue": "Hnry Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -2140,7 +2189,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-02-20_nsw-fij",
@@ -2161,6 +2210,7 @@
         "id": "fijian-drua"
       },
       "venue": "Allianz Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -2184,7 +2234,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-02-21_hig-chi",
@@ -2205,6 +2255,7 @@
         "id": "chiefs"
       },
       "venue": "Forsyth Barr Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -2228,7 +2279,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-02-21_wes-blu",
@@ -2249,6 +2300,7 @@
         "id": "blues"
       },
       "venue": "HIF Health Insurance Oval",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -2272,7 +2324,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "intl_mens_2026-02-21_eng-ire",
@@ -2293,6 +2345,7 @@
         "id": "ireland"
       },
       "venue": "Allianz Stadium",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -2305,7 +2358,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:56Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-02-21_wal-sco",
@@ -2326,6 +2379,7 @@
         "id": "scotland"
       },
       "venue": "Principality Stadium",
+      "venueCountry": "Wales",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -2338,7 +2392,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:56Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "super_mens_2026-02-22_cru-act",
@@ -2359,6 +2413,7 @@
         "id": "brumbies"
       },
       "venue": "Apollo Projects Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -2382,7 +2437,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "intl_mens_2026-02-22_fra-ita",
@@ -2403,6 +2458,7 @@
         "id": "italy"
       },
       "venue": "Stade Pierre Mauroy",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -2415,7 +2471,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:56Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "top14_mens_2026-02-22_usa-sec",
@@ -2436,6 +2492,7 @@
         "id": "pau"
       },
       "venue": "Stade Aime Giral",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -2459,7 +2516,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "super_mens_2026-02-27_moa-wes",
@@ -2480,6 +2537,7 @@
         "id": "western-force"
       },
       "venue": "Navigation Homes Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -2503,7 +2561,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-02-27_que-hig",
@@ -2524,6 +2582,7 @@
         "id": "highlanders"
       },
       "venue": "Suncorp Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -2547,7 +2606,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-02-28_fij-hur",
@@ -2568,6 +2627,7 @@
         "id": "hurricanes"
       },
       "venue": "Churchill Park",
+      "venueCountry": "Fiji",
       "round": null,
       "broadcasters": [
         {
@@ -2591,7 +2651,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-02-28_chi-cru",
@@ -2612,6 +2672,7 @@
         "id": "crusaders"
       },
       "venue": "FMG Stadium Waikato",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -2635,7 +2696,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-02-28_act-blu",
@@ -2656,6 +2717,7 @@
         "id": "blues"
       },
       "venue": "GIO Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -2679,7 +2741,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "top14_mens_2026-02-28_asm-bay",
@@ -2700,6 +2762,7 @@
         "id": "bayonne"
       },
       "venue": "Stade Marcel Michelin",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -2723,7 +2786,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-02-28_lyo-rc",
@@ -2744,6 +2807,7 @@
         "id": "toulon"
       },
       "venue": "Matmut Stadium de Gerland",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -2767,7 +2831,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-02-28_mon-rac",
@@ -2788,6 +2852,7 @@
         "id": "racing-92"
       },
       "venue": "Septeo Stadium",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -2811,7 +2876,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-02-28_sta-usa",
@@ -2832,6 +2897,7 @@
         "id": "perpignan"
       },
       "venue": "Stade Jean Bouin",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -2855,7 +2921,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-02-28_sta-us",
@@ -2876,6 +2942,7 @@
         "id": "us-montauban"
       },
       "venue": "Stade Ernest-Wallon",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -2899,7 +2966,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-02-28_cas-sta",
@@ -2920,6 +2987,7 @@
         "id": "la-rochelle"
       },
       "venue": "Stade Pierre Fabre",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -2943,7 +3011,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-03-01_sec-uni",
@@ -2964,6 +3032,7 @@
         "id": "bordeaux-begles"
       },
       "venue": "Stade du Hameau",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -2987,7 +3056,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "super_mens_2026-03-06_chi-moa",
@@ -3008,6 +3077,7 @@
         "id": "moana-pasifika"
       },
       "venue": "FMG Stadium Waikato",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -3031,7 +3101,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-03-06_nsw-hur",
@@ -3052,6 +3122,7 @@
         "id": "hurricanes"
       },
       "venue": "Allianz Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -3075,7 +3146,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "intl_mens_2026-03-06_ire-wal",
@@ -3096,6 +3167,7 @@
         "id": "wales"
       },
       "venue": "Aviva Stadium",
+      "venueCountry": "Ireland",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -3108,7 +3180,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:56Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "super_mens_2026-03-07_hig-wes",
@@ -3129,6 +3201,7 @@
         "id": "western-force"
       },
       "venue": "Forsyth Barr Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -3152,7 +3225,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-03-07_blu-cru",
@@ -3173,6 +3246,7 @@
         "id": "crusaders"
       },
       "venue": "Eden Park",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -3196,7 +3270,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-03-07_act-que",
@@ -3217,6 +3291,7 @@
         "id": "queensland-reds"
       },
       "venue": "GIO Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -3240,7 +3315,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "intl_mens_2026-03-07_sco-fra",
@@ -3261,6 +3336,7 @@
         "id": "france"
       },
       "venue": "Scottish Gas Murrayfield",
+      "venueCountry": "Scotland",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -3273,7 +3349,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:56Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-03-07_ita-eng",
@@ -3294,6 +3370,7 @@
         "id": "england"
       },
       "venue": "Stadio Olimpico",
+      "venueCountry": "Italy",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -3306,7 +3383,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:56Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "super_mens_2026-03-13_hur-wes",
@@ -3327,6 +3404,7 @@
         "id": "western-force"
       },
       "venue": "McLean Park",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -3350,7 +3428,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-03-14_fij-act",
@@ -3371,6 +3449,7 @@
         "id": "brumbies"
       },
       "venue": "Four R Stadium",
+      "venueCountry": null,
       "round": null,
       "broadcasters": [
         {
@@ -3394,7 +3473,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-03-14_cru-hig",
@@ -3415,6 +3494,7 @@
         "id": "highlanders"
       },
       "venue": "Apollo Projects Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -3438,7 +3518,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-03-14_que-nsw",
@@ -3459,6 +3539,7 @@
         "id": "new-south-wales-waratahs"
       },
       "venue": "Suncorp Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -3482,7 +3563,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "intl_mens_2026-03-14_ire-sco",
@@ -3503,6 +3584,7 @@
         "id": "scotland"
       },
       "venue": "Aviva Stadium",
+      "venueCountry": "Ireland",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -3515,7 +3597,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:56Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-03-14_wal-ita",
@@ -3536,6 +3618,7 @@
         "id": "italy"
       },
       "venue": "Principality Stadium",
+      "venueCountry": "Wales",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -3548,7 +3631,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:56Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-03-14_fra-eng",
@@ -3569,6 +3652,7 @@
         "id": "england"
       },
       "venue": "Stade de France",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -3581,7 +3665,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:56Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "super_mens_2026-03-15_blu-moa",
@@ -3602,6 +3686,7 @@
         "id": "moana-pasifika"
       },
       "venue": "Eden Park",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -3625,7 +3710,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-03-20_hig-hur",
@@ -3646,6 +3731,7 @@
         "id": "hurricanes"
       },
       "venue": "Forsyth Barr Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -3669,7 +3755,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-03-20_act-chi",
@@ -3690,6 +3776,7 @@
         "id": "chiefs"
       },
       "venue": "GIO Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -3713,7 +3800,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "premiership_mens_2026-03-20_bat-sar",
@@ -3734,6 +3821,7 @@
         "id": "saracens"
       },
       "venue": "Recreation Ground",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -3757,7 +3845,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "super_mens_2026-03-21_fij-que",
@@ -3778,6 +3866,7 @@
         "id": "queensland-reds"
       },
       "venue": "Churchill Park",
+      "venueCountry": "Fiji",
       "round": null,
       "broadcasters": [
         {
@@ -3801,7 +3890,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-03-21_moa-cru",
@@ -3822,6 +3911,7 @@
         "id": "crusaders"
       },
       "venue": "North Harbour Stadium",
+      "venueCountry": "United States of America",
       "round": null,
       "broadcasters": [
         {
@@ -3845,7 +3935,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-03-21_nsw-blu",
@@ -3866,6 +3956,7 @@
         "id": "blues"
       },
       "venue": "Allianz Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -3889,7 +3980,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "top14_mens_2026-03-21_asm-mon",
@@ -3910,6 +4001,7 @@
         "id": "montpellier-herault"
       },
       "venue": "Stade Marcel Michelin",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -3933,7 +4025,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-03-21_har-glo",
@@ -3954,6 +4046,7 @@
         "id": "gloucester-rugby"
       },
       "venue": "Twickenham Stoop",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -3977,7 +4070,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "premiership_mens_2026-03-21_nor-new",
@@ -3998,6 +4091,7 @@
         "id": "newcastle-falcons"
       },
       "venue": "cinch Stadium at Franklin's Gardens",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -4021,7 +4115,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "premiership_mens_2026-03-21_exe-sal",
@@ -4042,6 +4136,7 @@
         "id": "sale-sharks"
       },
       "venue": "Sandy Park",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -4065,7 +4160,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-03-21_rac-cas",
@@ -4086,6 +4181,7 @@
         "id": "castres-olympique"
       },
       "venue": "Paris La Defense Arena",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -4109,7 +4205,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-03-21_rc-sta",
@@ -4130,6 +4226,7 @@
         "id": "stade-francais-paris"
       },
       "venue": "Stade Mayol",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -4153,7 +4250,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-03-21_us-bay",
@@ -4174,6 +4271,7 @@
         "id": "bayonne"
       },
       "venue": "Stade Sapiac",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -4197,7 +4295,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-03-21_usa-lyo",
@@ -4218,6 +4316,7 @@
         "id": "lyon"
       },
       "venue": "Stade Aime Giral",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -4241,7 +4340,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-03-21_sta-sec",
@@ -4262,6 +4361,7 @@
         "id": "pau"
       },
       "venue": "Stade Marcel-Deflandre",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -4285,7 +4385,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-03-22_lei-bri",
@@ -4306,6 +4406,7 @@
         "id": "bristol-rugby"
       },
       "venue": "Mattioli Woods Welford Road Stadium",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -4329,7 +4430,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-03-22_uni-sta",
@@ -4350,6 +4451,7 @@
         "id": "stade-toulousain"
       },
       "venue": "Stade Matmut-Atlantique",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -4373,7 +4475,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "super_mens_2026-03-27_moa-hig",
@@ -4394,6 +4496,7 @@
         "id": "highlanders"
       },
       "venue": "North Harbour Stadium",
+      "venueCountry": "United States of America",
       "round": null,
       "broadcasters": [
         {
@@ -4417,7 +4520,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-03-27_act-nsw",
@@ -4438,6 +4541,7 @@
         "id": "new-south-wales-waratahs"
       },
       "venue": "GIO Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -4461,7 +4565,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "premiership_mens_2026-03-27_new-exe",
@@ -4482,6 +4586,7 @@
         "id": "exeter-chiefs"
       },
       "venue": "Kingston Park",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -4505,7 +4610,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "super_mens_2026-03-28_hur-que",
@@ -4526,6 +4631,7 @@
         "id": "queensland-reds"
       },
       "venue": "Hnry Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -4549,7 +4655,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-03-28_blu-fij",
@@ -4570,6 +4676,7 @@
         "id": "fijian-drua"
       },
       "venue": "Eden Park",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -4593,7 +4700,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-03-28_wes-chi",
@@ -4614,6 +4721,7 @@
         "id": "chiefs"
       },
       "venue": "HBF Park",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -4637,7 +4745,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "premiership_mens_2026-03-28_glo-lei",
@@ -4658,6 +4766,7 @@
         "id": "leicester-tigers"
       },
       "venue": "Villa Park",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -4681,7 +4790,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-03-28_sta-mon",
@@ -4702,6 +4811,7 @@
         "id": "montpellier-herault"
       },
       "venue": "Stade Ernest-Wallon",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -4725,7 +4835,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-03-28_bri-har",
@@ -4746,6 +4856,7 @@
         "id": "harlequins"
       },
       "venue": "Principality Stadium",
+      "venueCountry": "Wales",
       "round": null,
       "broadcasters": [
         {
@@ -4769,7 +4880,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-03-28_cas-us",
@@ -4790,6 +4901,7 @@
         "id": "us-montauban"
       },
       "venue": "Stade Pierre Fabre",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -4813,7 +4925,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-03-28_lyo-uni",
@@ -4834,6 +4946,7 @@
         "id": "bordeaux-begles"
       },
       "venue": "Matmut Stadium de Gerland",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -4857,7 +4970,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-03-28_sec-rac",
@@ -4878,6 +4991,7 @@
         "id": "racing-92"
       },
       "venue": "Stade du Hameau",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -4901,7 +5015,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-03-28_usa-rc",
@@ -4922,6 +5036,7 @@
         "id": "toulon"
       },
       "venue": "Stade Aime Giral",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -4945,7 +5060,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-03-28_sar-nor",
@@ -4966,6 +5081,7 @@
         "id": "northampton-saints"
       },
       "venue": "Tottenham Hotspur Stadium",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -4989,7 +5105,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-03-28_bay-sta",
@@ -5010,6 +5126,7 @@
         "id": "la-rochelle"
       },
       "venue": "Reale Arena",
+      "venueCountry": "Spain",
       "round": null,
       "broadcasters": [
         {
@@ -5033,7 +5150,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-03-29_sal-bat",
@@ -5054,6 +5171,7 @@
         "id": "bath-rugby"
       },
       "venue": "CorpAcq Stadium",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -5077,7 +5195,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-03-29_sta-asm",
@@ -5098,6 +5216,7 @@
         "id": "clermont-auvergne"
       },
       "venue": "Stade Jean Bouin",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -5121,7 +5240,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "super_mens_2026-04-03_cru-fij",
@@ -5142,6 +5261,7 @@
         "id": "fijian-drua"
       },
       "venue": "Apollo Projects Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -5165,7 +5285,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-04-04_chi-nsw",
@@ -5186,6 +5306,7 @@
         "id": "new-south-wales-waratahs"
       },
       "venue": "FMG Stadium Waikato",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -5209,7 +5330,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-04-04_que-wes",
@@ -5230,6 +5351,7 @@
         "id": "western-force"
       },
       "venue": "Suncorp Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -5253,7 +5375,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-04-10_hig-act",
@@ -5274,6 +5396,7 @@
         "id": "brumbies"
       },
       "venue": "Forsyth Barr Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -5297,7 +5420,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-04-11_moa-chi",
@@ -5318,6 +5441,7 @@
         "id": "chiefs"
       },
       "venue": "Rotorua International Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -5341,7 +5465,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-04-11_fij-wes",
@@ -5362,6 +5486,7 @@
         "id": "western-force"
       },
       "venue": "Churchill Park",
+      "venueCountry": "Fiji",
       "round": null,
       "broadcasters": [
         {
@@ -5385,7 +5510,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-04-11_hur-blu",
@@ -5406,6 +5531,7 @@
         "id": "blues"
       },
       "venue": "Hnry Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -5429,7 +5555,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-04-11_que-cru",
@@ -5450,6 +5576,7 @@
         "id": "crusaders"
       },
       "venue": "Suncorp Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -5473,7 +5600,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-04-17_blu-hig",
@@ -5494,6 +5621,7 @@
         "id": "highlanders"
       },
       "venue": "Eden Park",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -5517,7 +5645,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-04-17_nsw-moa",
@@ -5538,6 +5666,7 @@
         "id": "moana-pasifika"
       },
       "venue": "Allianz Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -5561,7 +5690,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "premiership_mens_2026-04-17_bri-glo",
@@ -5582,6 +5711,7 @@
         "id": "gloucester-rugby"
       },
       "venue": "Ashton Gate",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -5605,7 +5735,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "super_mens_2026-04-18_chi-hur",
@@ -5626,6 +5756,7 @@
         "id": "hurricanes"
       },
       "venue": "FMG Stadium Waikato",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -5649,7 +5780,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-04-18_act-fij",
@@ -5670,6 +5801,7 @@
         "id": "fijian-drua"
       },
       "venue": "GIO Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -5693,7 +5825,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-04-18_wes-cru",
@@ -5714,6 +5846,7 @@
         "id": "crusaders"
       },
       "venue": "HBF Park",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -5737,7 +5870,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "top14_mens_2026-04-18_sta-uni",
@@ -5758,6 +5891,7 @@
         "id": "bordeaux-begles"
       },
       "venue": "Stade Marcel-Deflandre",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -5781,7 +5915,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-04-18_lei-new",
@@ -5802,6 +5936,7 @@
         "id": "newcastle-falcons"
       },
       "venue": "Mattioli Woods Welford Road Stadium",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -5825,7 +5960,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "premiership_mens_2026-04-18_exe-nor",
@@ -5846,6 +5981,7 @@
         "id": "northampton-saints"
       },
       "venue": "Sandy Park",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -5869,7 +6005,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-04-18_secti-bayon",
@@ -5890,6 +6026,7 @@
         "id": "bayonne"
       },
       "venue": null,
+      "venueCountry": null,
       "round": null,
       "broadcasters": [
         {
@@ -5913,7 +6050,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-04-18_asm-lyo",
@@ -5934,6 +6071,7 @@
         "id": "lyon"
       },
       "venue": "Stade Marcel Michelin",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -5957,7 +6095,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-04-18_bay-sec",
@@ -5978,6 +6116,7 @@
         "id": "pau"
       },
       "venue": "Stade Jean Dauger",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -6001,7 +6140,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-04-18_mon-usa",
@@ -6022,6 +6161,7 @@
         "id": "perpignan"
       },
       "venue": "Septeo Stadium",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -6045,7 +6185,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-04-18_us-rc",
@@ -6066,6 +6206,7 @@
         "id": "toulon"
       },
       "venue": "Stade Sapiac",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -6089,7 +6230,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-04-18_bat-har",
@@ -6110,6 +6251,7 @@
         "id": "harlequins"
       },
       "venue": "Recreation Ground",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -6133,7 +6275,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-04-18_cas-sta",
@@ -6154,6 +6296,7 @@
         "id": "stade-toulousain"
       },
       "venue": "Stade Pierre Fabre",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -6177,7 +6320,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-04-19_sal-sar",
@@ -6198,6 +6341,7 @@
         "id": "saracens"
       },
       "venue": "CorpAcq Stadium",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -6221,7 +6365,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-04-19_rac-sta",
@@ -6242,6 +6386,7 @@
         "id": "stade-francais-paris"
       },
       "venue": "Paris La Defense Arena",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -6265,7 +6410,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "super_mens_2026-04-24_cru-nsw",
@@ -6286,6 +6431,7 @@
         "id": "new-south-wales-waratahs"
       },
       "venue": "One NZ Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -6309,7 +6455,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "premiership_mens_2026-04-24_new-bri",
@@ -6330,6 +6476,7 @@
         "id": "bristol-rugby"
       },
       "venue": "Kingston Park",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -6353,7 +6500,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "super_mens_2026-04-25_hur-act",
@@ -6374,6 +6521,7 @@
         "id": "brumbies"
       },
       "venue": "One NZ Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -6397,7 +6545,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-04-25_blu-que",
@@ -6418,6 +6566,7 @@
         "id": "queensland-reds"
       },
       "venue": "One NZ Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -6441,7 +6590,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "top14_mens_2026-04-25_sta-sec",
@@ -6462,6 +6611,7 @@
         "id": "pau"
       },
       "venue": "Stade Jean Bouin",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -6485,7 +6635,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-04-25_har-sal",
@@ -6506,6 +6656,7 @@
         "id": "sale-sharks"
       },
       "venue": "Twickenham Stoop",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -6529,7 +6680,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "premiership_mens_2026-04-25_sar-lei",
@@ -6550,6 +6701,7 @@
         "id": "leicester-tigers"
       },
       "venue": "StoneX Stadium",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -6573,7 +6725,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-04-25_lyo-cas",
@@ -6594,6 +6746,7 @@
         "id": "castres-olympique"
       },
       "venue": "Matmut Stadium de Gerland",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -6617,7 +6770,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-04-25_rc-bay",
@@ -6638,6 +6791,7 @@
         "id": "bayonne"
       },
       "venue": "Stade Mayol",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -6661,7 +6815,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-04-25_us-rac",
@@ -6682,6 +6836,7 @@
         "id": "racing-92"
       },
       "venue": "Stade Sapiac",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -6705,7 +6860,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-04-25_usa-sta",
@@ -6726,6 +6881,7 @@
         "id": "la-rochelle"
       },
       "venue": "Stade Aime Giral",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -6749,7 +6905,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-04-25_nor-bat",
@@ -6770,6 +6926,7 @@
         "id": "bath-rugby"
       },
       "venue": "cinch Stadium at Franklin's Gardens",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -6793,7 +6950,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-04-25_uni-mon",
@@ -6814,6 +6971,7 @@
         "id": "montpellier-herault"
       },
       "venue": "Stade Chaban-Delmas",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -6837,7 +6995,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "super_mens_2026-04-26_hig-moa",
@@ -6858,6 +7016,7 @@
         "id": "moana-pasifika"
       },
       "venue": "One NZ Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -6881,7 +7040,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-04-26_chi-fij",
@@ -6902,6 +7061,7 @@
         "id": "fijian-drua"
       },
       "venue": "One NZ Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -6925,7 +7085,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "premiership_mens_2026-04-26_glo-exe",
@@ -6946,6 +7106,7 @@
         "id": "exeter-chiefs"
       },
       "venue": "Kingsholm",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -6969,7 +7130,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-04-26_sta-asm",
@@ -6990,6 +7151,7 @@
         "id": "clermont-auvergne"
       },
       "venue": "Stadium de Toulouse",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -7013,7 +7175,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "super_mens_2026-05-01_hur-cru",
@@ -7034,6 +7196,7 @@
         "id": "crusaders"
       },
       "venue": "Hnry Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -7057,7 +7220,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-05-01_nsw-wes",
@@ -7078,6 +7241,7 @@
         "id": "western-force"
       },
       "venue": "Allianz Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -7101,7 +7265,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-05-02_fij-hig",
@@ -7122,6 +7286,7 @@
         "id": "highlanders"
       },
       "venue": "Four R Stadium",
+      "venueCountry": null,
       "round": null,
       "broadcasters": [
         {
@@ -7145,7 +7310,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-05-02_moa-blu",
@@ -7166,6 +7331,7 @@
         "id": "blues"
       },
       "venue": "North Harbour Stadium",
+      "venueCountry": "United States of America",
       "round": null,
       "broadcasters": [
         {
@@ -7189,7 +7355,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-05-02_que-act",
@@ -7210,6 +7376,7 @@
         "id": "brumbies"
       },
       "venue": "Suncorp Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -7233,7 +7400,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-05-08_cru-blu",
@@ -7254,6 +7421,7 @@
         "id": "blues"
       },
       "venue": "One NZ Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -7277,7 +7445,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-05-08_que-chi",
@@ -7298,6 +7466,7 @@
         "id": "chiefs"
       },
       "venue": "Suncorp Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -7321,7 +7490,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "premiership_mens_2026-05-08_glo-sal",
@@ -7342,6 +7511,7 @@
         "id": "sale-sharks"
       },
       "venue": "Kingsholm",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -7365,7 +7535,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "super_mens_2026-05-09_hig-nsw",
@@ -7386,6 +7556,7 @@
         "id": "new-south-wales-waratahs"
       },
       "venue": "Forsyth Barr Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -7409,7 +7580,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-05-09_moa-hur",
@@ -7430,6 +7601,7 @@
         "id": "hurricanes"
       },
       "venue": "North Harbour Stadium",
+      "venueCountry": "United States of America",
       "round": null,
       "broadcasters": [
         {
@@ -7453,7 +7625,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-05-09_act-wes",
@@ -7474,6 +7646,7 @@
         "id": "western-force"
       },
       "venue": "GIO Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -7497,7 +7670,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "top14_mens_2026-05-09_sec-cas",
@@ -7518,6 +7691,7 @@
         "id": "castres-olympique"
       },
       "venue": "Stade du Hameau",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -7541,7 +7715,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-05-09_lei-nor",
@@ -7562,6 +7736,7 @@
         "id": "northampton-saints"
       },
       "venue": "Mattioli Woods Welford Road Stadium",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -7585,7 +7760,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-05-09_asm-usa",
@@ -7606,6 +7781,7 @@
         "id": "perpignan"
       },
       "venue": "Stade Marcel Michelin",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -7629,7 +7805,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-05-09_bay-uni",
@@ -7650,6 +7826,7 @@
         "id": "bordeaux-begles"
       },
       "venue": "Stade Jean Dauger",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -7673,7 +7850,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-05-09_mon-us",
@@ -7694,6 +7871,7 @@
         "id": "us-montauban"
       },
       "venue": "Septeo Stadium",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -7717,7 +7895,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-05-09_sta-lyo",
@@ -7738,6 +7916,7 @@
         "id": "lyon"
       },
       "venue": "Stade Jean Bouin",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -7761,7 +7940,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-05-09_borde-bayon",
@@ -7782,6 +7961,7 @@
         "id": "bayonne"
       },
       "venue": null,
+      "venueCountry": null,
       "round": null,
       "broadcasters": [
         {
@@ -7805,7 +7985,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-05-09_bri-sar",
@@ -7826,6 +8006,7 @@
         "id": "saracens"
       },
       "venue": "Ashton Gate",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -7849,7 +8030,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-05-09_rc-sta",
@@ -7870,6 +8051,7 @@
         "id": "stade-toulousain"
       },
       "venue": "Orange Velodrome",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -7893,7 +8075,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-05-10_new-har",
@@ -7914,6 +8096,7 @@
         "id": "harlequins"
       },
       "venue": "Kingston Park",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -7937,7 +8120,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "premiership_mens_2026-05-10_exe-bat",
@@ -7958,6 +8141,7 @@
         "id": "bath-rugby"
       },
       "venue": "Sandy Park",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -7981,7 +8165,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-05-10_rac-sta",
@@ -8002,6 +8186,7 @@
         "id": "la-rochelle"
       },
       "venue": "Paris La Defense Arena",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -8025,7 +8210,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "super_mens_2026-05-15_chi-hig",
@@ -8046,6 +8231,7 @@
         "id": "highlanders"
       },
       "venue": "FMG Stadium Waikato",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -8069,7 +8255,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "premiership_mens_2026-05-15_nor-bri",
@@ -8090,6 +8276,7 @@
         "id": "bristol-rugby"
       },
       "venue": "cinch Stadium at Franklin's Gardens",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -8113,7 +8300,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "super_mens_2026-05-16_fij-nsw",
@@ -8134,6 +8321,7 @@
         "id": "new-south-wales-waratahs"
       },
       "venue": "HFC Bank Stadium",
+      "venueCountry": "Fiji",
       "round": null,
       "broadcasters": [
         {
@@ -8157,7 +8345,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-05-16_blu-hur",
@@ -8178,6 +8366,7 @@
         "id": "hurricanes"
       },
       "venue": "Eden Park",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -8201,7 +8390,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-05-16_wes-que",
@@ -8222,6 +8411,7 @@
         "id": "queensland-reds"
       },
       "venue": "HBF Park",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -8245,7 +8435,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "top14_mens_2026-05-16_sec-asm",
@@ -8266,6 +8456,7 @@
         "id": "clermont-auvergne"
       },
       "venue": "Stade du Hameau",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -8289,7 +8480,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-05-16_bat-new",
@@ -8310,6 +8501,7 @@
         "id": "newcastle-falcons"
       },
       "venue": "Recreation Ground",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -8333,7 +8525,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-05-16_cas-mon",
@@ -8354,6 +8546,7 @@
         "id": "montpellier-herault"
       },
       "venue": "Stade Pierre Fabre",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -8377,7 +8570,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-05-16_lyo-bay",
@@ -8398,6 +8591,7 @@
         "id": "bayonne"
       },
       "venue": "Matmut Stadium de Gerland",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -8421,7 +8615,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-05-16_uni-usa",
@@ -8442,6 +8636,7 @@
         "id": "perpignan"
       },
       "venue": "Stade Chaban-Delmas",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -8465,7 +8660,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-05-16_us-sta",
@@ -8486,6 +8681,7 @@
         "id": "stade-francais-paris"
       },
       "venue": "Stade Sapiac",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -8509,7 +8705,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-05-16_har-exe",
@@ -8530,6 +8726,7 @@
         "id": "exeter-chiefs"
       },
       "venue": "Allianz Stadium",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -8553,7 +8750,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "premiership_mens_2026-05-16_sar-glo",
@@ -8574,6 +8771,7 @@
         "id": "gloucester-rugby"
       },
       "venue": "StoneX Stadium",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -8597,7 +8795,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-05-16_rac-rc",
@@ -8618,6 +8816,7 @@
         "id": "toulon"
       },
       "venue": "Paris La Defense Arena",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -8641,7 +8840,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-05-17_sal-lei",
@@ -8662,6 +8861,7 @@
         "id": "leicester-tigers"
       },
       "venue": "CorpAcq Stadium",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -8685,7 +8885,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-05-17_sta-sta",
@@ -8706,6 +8906,7 @@
         "id": "stade-toulousain"
       },
       "venue": "Stade Marcel-Deflandre",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -8729,7 +8930,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "super_mens_2026-05-22_cru-chi",
@@ -8750,6 +8951,7 @@
         "id": "chiefs"
       },
       "venue": "One NZ Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -8773,7 +8975,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-05-22_nsw-act",
@@ -8794,6 +8996,7 @@
         "id": "brumbies"
       },
       "venue": "Allianz Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -8817,7 +9020,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-05-23_moa-que",
@@ -8838,6 +9041,7 @@
         "id": "queensland-reds"
       },
       "venue": "North Harbour Stadium",
+      "venueCountry": "United States of America",
       "round": null,
       "broadcasters": [
         {
@@ -8861,7 +9065,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-05-23_hur-hig",
@@ -8882,6 +9086,7 @@
         "id": "highlanders"
       },
       "venue": "Hnry Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -8905,7 +9110,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-05-23_wes-fij",
@@ -8926,6 +9131,7 @@
         "id": "fijian-drua"
       },
       "venue": "HBF Park",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -8949,7 +9155,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-05-29_cru-hur",
@@ -8970,6 +9176,7 @@
         "id": "hurricanes"
       },
       "venue": "One NZ Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -8993,7 +9200,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-05-29_que-fij",
@@ -9014,6 +9221,7 @@
         "id": "fijian-drua"
       },
       "venue": "Suncorp Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -9037,7 +9245,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "premiership_mens_2026-05-29_bri-bat",
@@ -9058,6 +9266,7 @@
         "id": "bath-rugby"
       },
       "venue": "Ashton Gate",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -9081,7 +9290,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "super_mens_2026-05-30_act-moa",
@@ -9102,6 +9311,7 @@
         "id": "moana-pasifika"
       },
       "venue": "GIO Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -9125,7 +9335,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-05-30_chi-blu",
@@ -9146,6 +9356,7 @@
         "id": "blues"
       },
       "venue": "FMG Stadium Waikato",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -9169,7 +9380,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-05-30_wes-nsw",
@@ -9190,6 +9401,7 @@
         "id": "new-south-wales-waratahs"
       },
       "venue": "HBF Park",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -9213,7 +9425,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "premiership_mens_2026-05-30_sar-har",
@@ -9234,6 +9446,7 @@
         "id": "harlequins"
       },
       "venue": "StoneX Stadium",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -9257,7 +9470,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-05-30_sta-bay",
@@ -9278,6 +9491,7 @@
         "id": "bayonne"
       },
       "venue": "Stade Jean Bouin",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -9301,7 +9515,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-05-30_sta-lyo",
@@ -9322,6 +9536,7 @@
         "id": "lyon"
       },
       "venue": "Stade Ernest-Wallon",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -9345,7 +9560,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-05-30_us-sta",
@@ -9366,6 +9581,7 @@
         "id": "la-rochelle"
       },
       "venue": "Stade Sapiac",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -9389,7 +9605,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-05-30_usa-cas",
@@ -9410,6 +9626,7 @@
         "id": "castres-olympique"
       },
       "venue": "Stade Aime Giral",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -9433,7 +9650,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-05-30_nor-glo",
@@ -9454,6 +9671,7 @@
         "id": "gloucester-rugby"
       },
       "venue": "cinch Stadium at Franklin's Gardens",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -9477,7 +9695,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "premiership_mens_2026-05-30_new-sal",
@@ -9498,6 +9716,7 @@
         "id": "sale-sharks"
       },
       "venue": "Kingston Park",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -9521,7 +9740,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-05-30_mon-sec",
@@ -9542,6 +9761,7 @@
         "id": "pau"
       },
       "venue": "Septeo Stadium",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -9565,7 +9785,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "premiership_mens_2026-05-31_lei-exe",
@@ -9586,6 +9806,7 @@
         "id": "exeter-chiefs"
       },
       "venue": "Mattioli Woods Welford Road Stadium",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -9609,7 +9830,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-05-31_rc-uni",
@@ -9630,6 +9851,7 @@
         "id": "bordeaux-begles"
       },
       "venue": "Stade Mayol",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -9653,7 +9875,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-05-31_asm-rac",
@@ -9674,6 +9896,7 @@
         "id": "racing-92"
       },
       "venue": "Stade Marcel Michelin",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -9697,7 +9920,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "super_mens_2026-06-05_hur-act",
@@ -9718,6 +9941,7 @@
         "id": "brumbies"
       },
       "venue": "Hnry Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -9741,7 +9965,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-06-06_cru-blu",
@@ -9762,6 +9986,7 @@
         "id": "blues"
       },
       "venue": "One NZ Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -9785,7 +10010,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "super_mens_2026-06-06_chi-que",
@@ -9806,6 +10031,7 @@
         "id": "queensland-reds"
       },
       "venue": "FMG Stadium Waikato",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -9829,7 +10055,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "premiership_mens_2026-06-06_bat-lei",
@@ -9850,6 +10076,7 @@
         "id": "leicester-tigers"
       },
       "venue": "Recreation Ground",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -9873,7 +10100,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "premiership_mens_2026-06-06_exe-sar",
@@ -9894,6 +10121,7 @@
         "id": "saracens"
       },
       "venue": "Sandy Park",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -9917,7 +10145,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "premiership_mens_2026-06-06_glo-new",
@@ -9938,6 +10166,7 @@
         "id": "newcastle-falcons"
       },
       "venue": "Kingsholm",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -9961,7 +10190,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "premiership_mens_2026-06-06_har-nor",
@@ -9982,6 +10211,7 @@
         "id": "northampton-saints"
       },
       "venue": "Twickenham Stoop",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -10005,7 +10235,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "premiership_mens_2026-06-06_sal-bri",
@@ -10026,6 +10256,7 @@
         "id": "bristol-rugby"
       },
       "venue": "CorpAcq Stadium",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -10049,7 +10280,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-06-06_bay-usa",
@@ -10070,6 +10301,7 @@
         "id": "perpignan"
       },
       "venue": "Stade Jean Dauger",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -10093,7 +10325,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-06-06_cas-rc",
@@ -10114,6 +10346,7 @@
         "id": "toulon"
       },
       "venue": "Stade Pierre Fabre",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -10137,7 +10370,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-06-06_lyo-mon",
@@ -10158,6 +10391,7 @@
         "id": "montpellier-herault"
       },
       "venue": "Matmut Stadium de Gerland",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -10181,7 +10415,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-06-06_rac-sta",
@@ -10202,6 +10436,7 @@
         "id": "stade-toulousain"
       },
       "venue": "Paris La Defense Arena",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -10225,7 +10460,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-06-06_sec-us",
@@ -10246,6 +10481,7 @@
         "id": "us-montauban"
       },
       "venue": "Stade du Hameau",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -10269,7 +10505,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-06-06_sta-sta",
@@ -10290,6 +10526,7 @@
         "id": "stade-francais-paris"
       },
       "venue": "Stade Marcel-Deflandre",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -10313,7 +10550,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-06-06_uni-asm",
@@ -10334,6 +10571,7 @@
         "id": "clermont-auvergne"
       },
       "venue": "Stade Chaban-Delmas",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -10357,7 +10595,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "super_mens_2026-06-12_chi-cru",
@@ -10378,6 +10616,7 @@
         "id": "crusaders"
       },
       "venue": "FMG Stadium Waikato",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -10401,7 +10640,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "premiership_mens_2026-06-12_nor-lei",
@@ -10422,6 +10661,7 @@
         "id": "leicester-tigers"
       },
       "venue": "cinch Stadium at Franklin's Gardens",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -10445,7 +10685,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "super_mens_2026-06-13_hur-blu",
@@ -10466,6 +10706,7 @@
         "id": "blues"
       },
       "venue": "Hnry Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -10489,7 +10730,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "premiership_mens_2026-06-13_bat-exe",
@@ -10510,6 +10751,7 @@
         "id": "exeter-chiefs"
       },
       "venue": "Recreation Ground",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -10533,7 +10775,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-06-13_sec-rac",
@@ -10554,6 +10796,7 @@
         "id": "racing-92"
       },
       "venue": "Stade du Hameau",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -10577,7 +10820,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-06-14_sta-sta",
@@ -10598,6 +10841,7 @@
         "id": "la-rochelle"
       },
       "venue": "Stade Jean Bouin",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -10621,7 +10865,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-06-19_sta-rac",
@@ -10642,6 +10886,7 @@
         "id": "racing-92"
       },
       "venue": "Orange Velodrome",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -10665,7 +10910,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "super_mens_2026-06-20_hur-chi",
@@ -10686,6 +10931,7 @@
         "id": "chiefs"
       },
       "venue": "Hnry Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -10709,7 +10955,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:40:01Z"
+      "lastUpdated": "2026-07-08T17:24:24Z"
     },
     {
       "id": "premiership_mens_2026-06-20_nor-exe",
@@ -10730,6 +10976,7 @@
         "id": "exeter-chiefs"
       },
       "venue": "Allianz Stadium",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -10753,7 +11000,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:22Z"
     },
     {
       "id": "top14_mens_2026-06-20_mon-sta",
@@ -10774,6 +11021,7 @@
         "id": "stade-francais-paris"
       },
       "venue": "Orange Velodrome",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -10797,7 +11045,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "top14_mens_2026-06-27_sta-mon",
@@ -10818,6 +11066,7 @@
         "id": "montpellier-herault"
       },
       "venue": "Stade de France",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -10841,7 +11090,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:59Z"
+      "lastUpdated": "2026-07-08T17:24:23Z"
     },
     {
       "id": "intl_mens_2026-07-04_nzl-fra",
@@ -10862,6 +11111,7 @@
         "id": "france"
       },
       "venue": "One NZ Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -10885,7 +11135,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-07-04_jap-ita",
@@ -10906,6 +11156,7 @@
         "id": "italy"
       },
       "venue": "Prince Chichibu Memorial Stadium",
+      "venueCountry": "Japan",
       "round": null,
       "broadcasters": [
         {
@@ -10929,7 +11180,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-07-04_aus-ire",
@@ -10950,6 +11201,7 @@
         "id": "ireland"
       },
       "venue": "Allianz Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -10973,7 +11225,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-07-04_fij-wal",
@@ -10994,6 +11246,7 @@
         "id": "wales"
       },
       "venue": "Cardiff City Stadium",
+      "venueCountry": "Wales",
       "round": null,
       "broadcasters": [
         {
@@ -11017,7 +11270,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-07-04_sou-eng",
@@ -11038,6 +11291,7 @@
         "id": "england"
       },
       "venue": "Ellis Park",
+      "venueCountry": "South Africa",
       "round": null,
       "broadcasters": [
         {
@@ -11061,7 +11315,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-07-04_arg-sco",
@@ -11082,6 +11336,7 @@
         "id": "scotland"
       },
       "venue": "Estadio Mario Alberto Kempes",
+      "venueCountry": "Argentina",
       "round": null,
       "broadcasters": [
         {
@@ -11105,7 +11360,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-07-11_nzl-ita",
@@ -11126,6 +11381,7 @@
         "id": "italy"
       },
       "venue": "Hnry Stadium",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -11149,7 +11405,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-07-11_aus-fra",
@@ -11170,6 +11426,7 @@
         "id": "france"
       },
       "venue": "Suncorp Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -11193,7 +11450,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-07-11_jap-ire",
@@ -11214,6 +11471,7 @@
         "id": "ireland"
       },
       "venue": "McDonald Jones Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -11237,7 +11495,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-07-11_fij-eng",
@@ -11258,6 +11516,7 @@
         "id": "england"
       },
       "venue": "Hill Dickinson Stadium",
+      "venueCountry": null,
       "round": null,
       "broadcasters": [
         {
@@ -11281,7 +11540,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-07-11_sou-sco",
@@ -11302,6 +11561,7 @@
         "id": "scotland"
       },
       "venue": "Loftus Versfeld",
+      "venueCountry": "South Africa",
       "round": null,
       "broadcasters": [
         {
@@ -11325,7 +11585,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-07-11_arg-wal",
@@ -11346,6 +11606,7 @@
         "id": "wales"
       },
       "venue": "Estadio Bicentenario",
+      "venueCountry": "Argentina",
       "round": null,
       "broadcasters": [
         {
@@ -11369,7 +11630,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-07-18_nzl-ire",
@@ -11390,6 +11651,7 @@
         "id": "ireland"
       },
       "venue": "Eden Park",
+      "venueCountry": "New Zealand",
       "round": null,
       "broadcasters": [
         {
@@ -11413,7 +11675,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-07-18_jap-fra",
@@ -11434,6 +11696,7 @@
         "id": "france"
       },
       "venue": "MUFG Stadium",
+      "venueCountry": "Japan",
       "round": null,
       "broadcasters": [
         {
@@ -11457,7 +11720,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-07-18_aus-ita",
@@ -11478,6 +11741,7 @@
         "id": "italy"
       },
       "venue": "HBF Park",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [
         {
@@ -11501,7 +11765,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-07-18_fij-sco",
@@ -11522,6 +11786,7 @@
         "id": "scotland"
       },
       "venue": "Scottish Gas Murrayfield",
+      "venueCountry": "Scotland",
       "round": null,
       "broadcasters": [
         {
@@ -11545,7 +11810,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-07-18_sou-wal",
@@ -11566,6 +11831,7 @@
         "id": "wales"
       },
       "venue": "Hollywoodbets Kings Park",
+      "venueCountry": "South Africa",
       "round": null,
       "broadcasters": [
         {
@@ -11589,7 +11855,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-07-18_arg-eng",
@@ -11610,6 +11876,7 @@
         "id": "england"
       },
       "venue": "Estadio Único Madre de Ciudades",
+      "venueCountry": null,
       "round": null,
       "broadcasters": [
         {
@@ -11633,7 +11900,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-11-06_ire-arg",
@@ -11654,6 +11921,7 @@
         "id": "argentina"
       },
       "venue": "Aviva Stadium",
+      "venueCountry": "Ireland",
       "round": null,
       "broadcasters": [
         {
@@ -11677,7 +11945,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-11-07_ita-sou",
@@ -11698,6 +11966,7 @@
         "id": "south-africa"
       },
       "venue": "Allianz Stadium",
+      "venueCountry": null,
       "round": null,
       "broadcasters": [
         {
@@ -11721,7 +11990,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-11-07_sco-nzl",
@@ -11742,6 +12011,7 @@
         "id": "new-zealand"
       },
       "venue": "Scottish Gas Murrayfield",
+      "venueCountry": "Scotland",
       "round": null,
       "broadcasters": [
         {
@@ -11765,7 +12035,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-11-07_wal-jap",
@@ -11786,6 +12056,7 @@
         "id": "japan"
       },
       "venue": "Principality Stadium",
+      "venueCountry": "Wales",
       "round": null,
       "broadcasters": [
         {
@@ -11809,7 +12080,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-11-07_fra-fij",
@@ -11830,6 +12101,7 @@
         "id": "fiji"
       },
       "venue": "Groupama Stadium",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -11853,7 +12125,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-11-08_eng-aus",
@@ -11874,6 +12146,7 @@
         "id": "australia"
       },
       "venue": "Allianz Stadium",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -11897,7 +12170,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-11-13_fra-sou",
@@ -11918,6 +12191,7 @@
         "id": "south-africa"
       },
       "venue": "Stade de France",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -11941,7 +12215,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-11-14_ita-arg",
@@ -11962,6 +12236,7 @@
         "id": "argentina"
       },
       "venue": "Stadio Luigi Ferraris",
+      "venueCountry": "Italy",
       "round": null,
       "broadcasters": [
         {
@@ -11985,7 +12260,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-11-14_wal-nzl",
@@ -12006,6 +12281,7 @@
         "id": "new-zealand"
       },
       "venue": "Principality Stadium",
+      "venueCountry": "Wales",
       "round": null,
       "broadcasters": [
         {
@@ -12029,7 +12305,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-11-14_eng-jap",
@@ -12050,6 +12326,7 @@
         "id": "japan"
       },
       "venue": "Allianz Stadium",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -12073,7 +12350,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-11-14_ire-fij",
@@ -12094,6 +12371,7 @@
         "id": "fiji"
       },
       "venue": "Aviva Stadium",
+      "venueCountry": "Ireland",
       "round": null,
       "broadcasters": [
         {
@@ -12117,7 +12395,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-11-15_sco-aus",
@@ -12138,6 +12416,7 @@
         "id": "australia"
       },
       "venue": "Scottish Gas Murrayfield",
+      "venueCountry": "Scotland",
       "round": null,
       "broadcasters": [
         {
@@ -12161,7 +12440,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-11-21_eng-nzl",
@@ -12182,6 +12461,7 @@
         "id": "new-zealand"
       },
       "venue": "Allianz Stadium",
+      "venueCountry": "England",
       "round": null,
       "broadcasters": [
         {
@@ -12205,7 +12485,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-11-21_sco-jap",
@@ -12226,6 +12506,7 @@
         "id": "japan"
       },
       "venue": "Scottish Gas Murrayfield",
+      "venueCountry": "Scotland",
       "round": null,
       "broadcasters": [
         {
@@ -12249,7 +12530,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-11-21_ire-sou",
@@ -12270,6 +12551,7 @@
         "id": "south-africa"
       },
       "venue": "Aviva Stadium",
+      "venueCountry": "Ireland",
       "round": null,
       "broadcasters": [
         {
@@ -12293,7 +12575,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-11-21_ita-fij",
@@ -12314,6 +12596,7 @@
         "id": "fiji"
       },
       "venue": "Bluenergy Stadium",
+      "venueCountry": "Italy",
       "round": null,
       "broadcasters": [
         {
@@ -12337,7 +12620,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-11-21_fra-arg",
@@ -12358,6 +12641,7 @@
         "id": "argentina"
       },
       "venue": "Stade de France",
+      "venueCountry": "France",
       "round": null,
       "broadcasters": [
         {
@@ -12381,7 +12665,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2026-11-21_wal-aus",
@@ -12402,6 +12686,7 @@
         "id": "australia"
       },
       "venue": "Principality Stadium",
+      "venueCountry": "Wales",
       "round": null,
       "broadcasters": [
         {
@@ -12425,7 +12710,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:57Z"
+      "lastUpdated": "2026-07-08T17:24:20Z"
     },
     {
       "id": "intl_mens_2027-10-01_aus-hon",
@@ -12446,6 +12731,7 @@
         "id": "hong-kong"
       },
       "venue": "Optus Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -12458,7 +12744,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-02_wal-zim",
@@ -12479,6 +12765,7 @@
         "id": "zimbabwe"
       },
       "venue": "Adelaide Oval",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -12491,7 +12778,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-02_nzl-chi",
@@ -12512,6 +12799,7 @@
         "id": "chile"
       },
       "venue": "Optus Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -12524,7 +12812,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-02_fra-usa",
@@ -12545,6 +12833,7 @@
         "id": "united-states-of-america"
       },
       "venue": "Marvel Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -12557,7 +12846,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-02_eng-ton",
@@ -12578,6 +12867,7 @@
         "id": "tonga"
       },
       "venue": "Suncorp Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -12590,7 +12880,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-03_jap-sam",
@@ -12611,6 +12901,7 @@
         "id": "samoa"
       },
       "venue": "McDonald Jones Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -12623,7 +12914,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-03_sou-ita",
@@ -12644,6 +12935,7 @@
         "id": "italy"
       },
       "venue": "Adelaide Oval",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -12656,7 +12948,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-03_sco-uru",
@@ -12677,6 +12969,7 @@
         "id": "uruguay"
       },
       "venue": "Marvel Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -12689,7 +12982,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-03_geo-rom",
@@ -12710,6 +13003,7 @@
         "id": "romania"
       },
       "venue": "Queensland Country Bank Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -12722,7 +13016,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-04_fij-spa",
@@ -12743,6 +13037,7 @@
         "id": "spain"
       },
       "venue": "McDonald Jones Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -12755,7 +13050,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-04_ire-por",
@@ -12776,6 +13071,7 @@
         "id": "portugal"
       },
       "venue": "Allianz Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -12788,7 +13084,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-04_arg-can",
@@ -12809,6 +13105,7 @@
         "id": "canada"
       },
       "venue": "Suncorp Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -12821,7 +13118,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-08_wal-ton",
@@ -12842,6 +13139,7 @@
         "id": "tonga"
       },
       "venue": "Marvel Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -12854,7 +13152,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-08_eng-zim",
@@ -12875,6 +13173,7 @@
         "id": "zimbabwe"
       },
       "venue": "Adelaide Oval",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -12887,7 +13186,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-09_usa-sam",
@@ -12908,6 +13207,7 @@
         "id": "samoa"
       },
       "venue": "Optus Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -12920,7 +13220,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-09_nzl-aus",
@@ -12941,6 +13241,7 @@
         "id": "australia"
       },
       "venue": "Accor Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -12953,7 +13254,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-09_fra-jap",
@@ -12974,6 +13275,7 @@
         "id": "japan"
       },
       "venue": "Suncorp Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -12986,7 +13288,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-09_chi-hon",
@@ -13007,6 +13309,7 @@
         "id": "hong-kong"
       },
       "venue": "Queensland Country Bank Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -13019,7 +13322,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-10_fij-can",
@@ -13040,6 +13343,7 @@
         "id": "canada"
       },
       "venue": "Adelaide Oval",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -13052,7 +13356,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-10_arg-spa",
@@ -13073,6 +13377,7 @@
         "id": "spain"
       },
       "venue": "Marvel Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -13085,7 +13390,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-10_sou-geo",
@@ -13106,6 +13411,7 @@
         "id": "georgia"
       },
       "venue": "Suncorp Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -13118,7 +13424,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-10_ire-sco",
@@ -13139,6 +13445,7 @@
         "id": "scotland"
       },
       "venue": "Optus Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -13151,7 +13458,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-11_uru-por",
@@ -13172,6 +13479,7 @@
         "id": "portugal"
       },
       "venue": "McDonald Jones Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -13184,7 +13492,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-11_ita-rom",
@@ -13205,6 +13513,7 @@
         "id": "romania"
       },
       "venue": "Allianz Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -13217,7 +13526,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-15_nzl-hon",
@@ -13238,6 +13547,7 @@
         "id": "hong-kong"
       },
       "venue": "Marvel Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -13250,7 +13560,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-15_jap-usa",
@@ -13271,6 +13581,7 @@
         "id": "united-states-of-america"
       },
       "venue": "Adelaide Oval",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -13283,7 +13594,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-15_ton-zim",
@@ -13304,6 +13615,7 @@
         "id": "zimbabwe"
       },
       "venue": "Queensland Country Bank Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -13316,7 +13628,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-16_arg-fij",
@@ -13337,6 +13649,7 @@
         "id": "fiji"
       },
       "venue": "Adelaide Oval",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -13349,7 +13662,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-16_aus-chi",
@@ -13370,6 +13683,7 @@
         "id": "chile"
       },
       "venue": "Suncorp Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -13382,7 +13696,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-16_eng-wal",
@@ -13403,6 +13717,7 @@
         "id": "wales"
       },
       "venue": "Accor Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -13415,7 +13730,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-16_spa-can",
@@ -13436,6 +13751,7 @@
         "id": "canada"
       },
       "venue": "Queensland Country Bank Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -13448,7 +13764,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-17_ita-geo",
@@ -13469,6 +13785,7 @@
         "id": "georgia"
       },
       "venue": "McDonald Jones Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -13481,7 +13798,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-17_ire-uru",
@@ -13502,6 +13819,7 @@
         "id": "uruguay"
       },
       "venue": "Marvel Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -13514,7 +13832,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-17_sco-por",
@@ -13535,6 +13853,7 @@
         "id": "portugal"
       },
       "venue": "Suncorp Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -13547,7 +13866,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-17_fra-sam",
@@ -13568,6 +13887,7 @@
         "id": "samoa"
       },
       "venue": "Allianz Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -13580,7 +13900,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     },
     {
       "id": "intl_mens_2027-10-17_sou-rom",
@@ -13601,6 +13921,7 @@
         "id": "romania"
       },
       "venue": "Optus Stadium",
+      "venueCountry": "Australia",
       "round": null,
       "broadcasters": [],
       "sources": {
@@ -13613,7 +13934,7 @@
         "confidence": "medium",
         "conflicts": []
       },
-      "lastUpdated": "2026-07-08T06:39:58Z"
+      "lastUpdated": "2026-07-08T17:24:21Z"
     }
   ]
 }
